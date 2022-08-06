@@ -1,5 +1,5 @@
 # <b>GitHub Stats</b>
-![](https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=0BDBC6)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrvsrg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
