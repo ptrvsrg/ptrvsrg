@@ -12,5 +12,7 @@
 <a href="https://docs.microsoft.com/ru-ru/powershell/" target="_blank"> <img align="left" src="Languages and Tools/powershell.svg" alt="c" height="30px" width="35px"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img align="left" src="Languages and Tools/shell script.svg" alt="c" height="30px" width="35px"/></a>
 
+<br>
+
 # <b>Joke for you</b>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
