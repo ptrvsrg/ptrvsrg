@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrvsrg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&layout=compact&langs_count=8&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # <b>Languages and Tools</b>
 <a href="https://iso.org/" target="_blank"> <img align="left" src="Languages and Tools/c.svg" alt="c" height="30px" width="35px"/></a>
