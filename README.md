@@ -1,7 +1,8 @@
 # <b>GitHub Stats</b>
 ![](https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=09BAA8)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrvsrg&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrvsrg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # <b>Languages and Tools</b>
