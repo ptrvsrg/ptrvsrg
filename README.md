@@ -15,6 +15,3 @@
 [<img src="Languages and Tools/powershell.svg" alt="powershell" height="35px"/>](https://docs.microsoft.com/ru-ru/powershell/)
 [<img src="Languages and Tools/shell script.svg" alt="bash" height="35px"/>](https://www.gnu.org/software/bash/)
 [<img src="Languages and Tools/appveyor.svg" alt="bash" height="35px"/>](https://www.appveyor.com/)
-[<img src="Languages and Tools/vs.svg" alt="vs" height="35px"/>](https://visualstudio.microsoft.com/)
-[<img src="Languages and Tools/vscode.svg" alt="vscode" height="35px"/>](https://code.visualstudio.com/)
-[<img src="Languages and Tools/linux.svg" alt="linux" height="35px"/>](https://www.kernel.org/)
