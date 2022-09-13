@@ -15,3 +15,10 @@
 [<img src="Languages and Tools/powershell.svg" alt="powershell" height="35px"/>](https://docs.microsoft.com/ru-ru/powershell/)
 [<img src="Languages and Tools/shell script.svg" alt="bash" height="35px"/>](https://www.gnu.org/software/bash/)
 [<img src="Languages and Tools/appveyor.svg" alt="bash" height="35px"/>](https://www.appveyor.com/)
+
+# <b>My contacts</b>
+
+[<img src="Social Media/github.svg" alt="github" height="35px"/>](https://github.com/ptrvsrg/)
+[<img src="Social Media/vk.svg" alt="vk" height="35px"/>](https://vk.com/ptrvsrg/)
+[<img src="Social Media/instagram.svg" alt="instagram" height="35px"/>](https://instagram.com/ptrvsrg/)
+[<img src="Social Media/telegram.svg" alt="telagram" height="35px"/>](https://t.me/ptrvsrg/)
