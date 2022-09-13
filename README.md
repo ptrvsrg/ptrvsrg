@@ -18,7 +18,6 @@
 
 # <b>My contacts</b>
 
-[<img src="Social Media/github.svg" alt="github" height="45px"/>](https://github.com/ptrvsrg/)
 [<img src="Social Media/vk.svg" alt="vk" height="45px"/>](https://vk.com/ptrvsrg/)
 [<img src="Social Media/instagram.svg" alt="instagram" height="45px"/>](https://instagram.com/ptrvsrg/)
 [<img src="Social Media/telegram.svg" alt="telagram" height="45px"/>](https://t.me/ptrvsrg/)
