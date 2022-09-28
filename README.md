@@ -15,7 +15,7 @@
 [<img src="Languages and Tools/powershell.svg" alt="powershell" height="35px"/>](https://docs.microsoft.com/ru-ru/powershell/)
 [<img src="Languages and Tools/shell script.svg" alt="bash" height="35px"/>](https://www.gnu.org/software/bash/)
 [<img src="Languages and Tools/appveyor.svg" alt="bash" height="35px"/>](https://www.appveyor.com/)
-[<img src="Languages and Tools/linux.svg" alt="linux" height="35px"/>](https://kernel.org/)
+[<img src="Languages and Tools/ubuntu.svg" alt="ubuntu" height="35px"/>](https://ubuntu.com/)
 
 # <b>My contacts</b>
 
