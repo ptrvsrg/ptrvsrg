@@ -22,3 +22,4 @@
 [<img src="Social Media/vk.svg" alt="vk" height="45px"/>](https://vk.com/ptrvsrg/)
 [<img src="Social Media/instagram.svg" alt="instagram" height="45px"/>](https://instagram.com/ptrvsrg/)
 [<img src="Social Media/telegram.svg" alt="telagram" height="45px"/>](https://t.me/ptrvsrg/)
+[<img src="Social Media/gmail.svg" alt="telagram" height="45px"/>](mailto:s.petrov1@g.nsu.ru)
