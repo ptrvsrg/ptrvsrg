@@ -18,6 +18,7 @@
 
 [<img src="Languages and Tools/git.svg" alt="git" height="35px"/>](https://git-scm.com/)
 [<img src="Languages and Tools/cmake.svg" alt="cmake" height="35px"/>](https://cmake.org/)
+[<img src="Languages and Tools/google-test.svg" alt="google-test" height="35px"/>](http://google.github.io/googletest/)
 [<img src="Languages and Tools/powershell.svg" alt="powershell" height="35px"/>](https://docs.microsoft.com/ru-ru/powershell/)
 [<img src="Languages and Tools/shell script.svg" alt="bash" height="35px"/>](https://www.gnu.org/software/bash/)
 [<img src="Languages and Tools/appveyor.svg" alt="bash" height="35px"/>](https://www.appveyor.com/)
