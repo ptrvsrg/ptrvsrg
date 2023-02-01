@@ -13,6 +13,7 @@
 
 [<img src="Languages and Tools/c.svg" alt="c" height="35px"/>](https://iso.org/)
 [<img src="Languages and Tools/cpp.svg" alt="cpp" height="35px"/>](https://isocpp.org/)
+[<img src="Languages and Tools/java.svg" alt="java" height="35px"/>](https://oracle.com/ru/java/)
 
 ## <b>Tools</b>
 
