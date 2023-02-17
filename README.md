@@ -9,19 +9,28 @@
 
 ## Languages
 
-[<img src="https://skillicons.dev/icons?i=java" title="Java" alt="java" height="50px">](https://oracle.com/ru/java/)
-[<img src="https://skillicons.dev/icons?i=c" title="C" alt="c" height="50px">](https://iso.org/)
-[<img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="c++" height="50px">](https://isocpp.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="java" height="60px">](https://oracle.com/ru/java/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="c" height="60px">](https://iso.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="c++" height="60px">](https://isocpp.org/)
+
+## Frameworks
+
+[<img src="icons/junit.png" title="JUnit" alt="junit" height="50px">](https://junit.org/)
+[<img src="icons/maven.svg" title="Maven" alt="maven" height="50px">](https://maven.apache.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="GoogleTest" alt="google test" height="50px">](http://google.github.io/googletest/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="opencv" height="50px">](https://opencv.org/)
+[<img src="icons/MPI.png" title="MPI" alt="mpi" height="50px">](https://www.mpi-forum.org/)
+[<img src="icons/OpenMP.png" title="OpenMP" alt="openmp" height="50px">](https://openmp.org/)
 
 ## Tools
 
-[<img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" height="50px">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="github" height="50px">](https://github.com/)
-[<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="githubactions" height="50px">](https://github.com/features/actions)
-[<img src="https://skillicons.dev/icons?i=cmake" title="CMake" alt="cmake" height="50px">](https://cmake.org/)
-[<img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="bash" height="50px">](https://www.gnu.org/software/bash/)
-[<img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" alt="powershell" height="50px">](https://docs.microsoft.com/ru-ru/powershell/)
-[<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="linux" height="50px">](https://ubuntu.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="CMake" alt="cmake" height="50px">](https://cmake.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" height="50px">](https://git-scm.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="github" height="50px">](https://github.com/)
+[<img src="icons/github-actions.svg" title="GitHub Actions" alt="github actions" height="50px">](https://github.com/features/actions)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="bash" height="50px">](https://www.gnu.org/software/bash/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="jetbrains" height="50px">](https://www.jetbrains.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="linux" height="50px">](https://ubuntu.com/)
 
 ## Contacts
 
