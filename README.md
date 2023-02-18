@@ -29,6 +29,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="github" height="50px">](https://github.com/)
 [<img src="icons/github-actions.svg" title="GitHub Actions" alt="github actions" height="50px">](https://github.com/features/actions)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="bash" height="50px">](https://www.gnu.org/software/bash/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="vscode" height="50px">](https://code.visualstudio.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="jetbrains" height="50px">](https://www.jetbrains.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="linux" height="50px">](https://ubuntu.com/)
 
