@@ -73,7 +73,7 @@
         height="60px">
 </a>
 
-<h2>Frameworks</h2>
+<h2>Frameworks and Libraries</h2>
 
 <a href="https://junit.org/">
     <img
@@ -176,3 +176,45 @@
         alt="linux"
         height="60px">
 </a>
+
+<h2>Skills</h2>
+
+<figure
+    style="float: left;
+    margin: 10px;
+    text-align: center;">
+    <figcaption>while ( alive() ) { learn(); }</figcaption>
+    <img
+        src="gifs/coffee_coding.gif"
+        height="250px">
+</figure>
+
+<figure
+    style="float: left;
+    margin: 10px;
+    text-align: center;">
+    <figcaption>Read assembler listings before going to bed</figcaption>
+    <img
+        src="gifs/laptop_on_bed.gif"
+        height="250px">
+</figure>
+
+<figure
+    style="float: left;
+    margin: 10px;
+    text-align: center;">
+    <figcaption>Move/copy/remove files only using bash</figcaption>
+    <img
+        src="gifs/coding_cat.gif"
+        height="250px">
+</figure>
+
+<figure
+    style="float: left;
+    margin: 10px;
+    text-align: center;">
+    <figcaption>Bait bugs using unit tests</figcaption>
+    <img
+        src="gifs/coding_monkey.gif"
+        height="250px">
+</figure>
