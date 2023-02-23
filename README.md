@@ -121,11 +121,13 @@
 
 <h2>Tools</h2>
 
-<img
-    src="icons/asm.svg"
-    title="Assembler"
-    alt="assembler"
-    height="60px">
+<a href="https://en.wikipedia.org/wiki/Assembly_language">
+    <img
+        src="icons/asm.svg"
+        title="Assembler"
+        alt="assembler"
+        height="60px">
+</a>
 <a href="https://cmake.org/">
     <img
         src="https://skillicons.dev/icons?i=cmake"
