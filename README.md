@@ -121,11 +121,23 @@
 
 <h2>Tools</h2>
 
+<img
+    src="icons/asm.svg"
+    title="Assembler"
+    alt="assembler"
+    height="60px">
 <a href="https://cmake.org/">
     <img
         src="https://skillicons.dev/icons?i=cmake"
         title="CMake"
         alt="cmake"
+        height="60px">
+</a>
+<a href="https://www.gnu.org/software/bash/">
+    <img
+        src="https://skillicons.dev/icons?i=bash"
+        title="Bash"
+        alt="bash"
         height="60px">
 </a>
 <a href="https://git-scm.com/">
@@ -147,13 +159,6 @@
         src="https://skillicons.dev/icons?i=githubactions"
         title="GitHub Actions"
         alt="github actions"
-        height="60px">
-</a>
-<a href="https://www.gnu.org/software/bash/">
-    <img
-        src="https://skillicons.dev/icons?i=bash"
-        title="Bash"
-        alt="bash"
         height="60px">
 </a>
 <a href="https://code.visualstudio.com/">
