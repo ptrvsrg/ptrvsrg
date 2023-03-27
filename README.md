@@ -76,11 +76,11 @@
 
 <h2>Frameworks and Libraries</h2>
 
-<a href="https://junit.org/">
+<a href="https://testng.org/">
     <img
-        src="icons/JUnit.svg"
-        title="JUnit"
-        alt="junit"
+        src="icons/testNG.svg"
+        title="testNG"
+        alt="testng"
         height="60px">
 </a>
 <a href="https://maven.apache.org/">
