@@ -61,14 +61,14 @@
 </a>
 <a href="https://iso.org/">
     <img
-        src="icons/C.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726366-32827d1f-021a-40ed-9572-b9313311fb6e.svg"
         title="C"
         alt="c"
         height="60px">
 </a>
 <a href="https://isocpp.org/">
     <img
-        src="icons/C++.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726381-9ed4191b-2a7d-4398-a09f-0b3561d8082c.svg"
         title="C++"
         alt="c++"
         height="60px">
@@ -78,7 +78,7 @@
 
 <a href="https://testng.org/">
     <img
-        src="icons/testNG.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726398-89ba64f4-e674-48cc-a306-b104d2dbf522.svg"
         title="testNG"
         alt="testng"
         height="60px">
@@ -92,28 +92,28 @@
 </a>
 <a href="http://google.github.io/googletest/">
     <img
-        src="icons/Google.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726439-40ed70c5-d6df-4dab-9405-04527b8b3438.svg"
         title="GoogleTest"
         alt="google test"
         height="60px">
 </a>
 <a href="https://opencv.org/">
     <img
-        src="icons/OpenCV.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726450-040f88b6-642e-4996-9a8f-a9e9cc0a3070.svg"
         title="OpenCV"
         alt="opencv"
         height="60px">
 </a>
 <a href="https://www.mpi-forum.org/">
     <img
-        src="icons/MPI.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726468-1e02f295-1bc5-4a86-a8ba-b4526d9ad994.svg"
         title="MPI"
         alt="mpi"
         height="60px">
 </a>
 <a href="https://openmp.org/">
     <img
-        src="icons/OpenMP.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726492-747fec98-437e-453a-b2e7-37f32fdc5a3f.svg"
         title="OpenMP"
         alt="openmp"
         height="60px">
@@ -123,7 +123,7 @@
 
 <a href="https://en.wikipedia.org/wiki/Assembly_language">
     <img
-        src="icons/asm.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726509-a76cb4dd-5985-40ae-a41a-0978d74f2379.svg"
         title="Assembler"
         alt="assembler"
         height="60px">
@@ -144,7 +144,7 @@
 </a>
 <a href="https://git-scm.com/">
     <img
-        src="icons/Git.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726524-9aaa426e-c76d-4b6c-bd12-60c8bbb3c193.svg"
         title="Git"
         alt="git"
         height="60px">
@@ -172,7 +172,7 @@
 </a>
 <a href="https://www.jetbrains.com/">
     <img
-        src="icons/Jetbrains.svg"
+        src="https://user-images.githubusercontent.com/90527574/230726548-3ba069be-a8d8-48db-b322-4b4bb691746a.svg"
         title="JetBrains"
         alt="jetbrains"
         height="60px">
