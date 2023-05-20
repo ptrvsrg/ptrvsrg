@@ -193,28 +193,28 @@
 </a>
 <a href="https://www.virtualbox.org/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/59bbd10d-c2d5-44ba-825a-f4ccc03c7d05"
+        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670216-59bbd10d-c2d5-44ba-825a-f4ccc03c7d05.svg"
         title="VirtualBox"
         alt="VirtualBox"
         height="60px">
 </a>
 <a href="https://httpd.apache.org/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/7386fa12-0053-433c-836b-f9a68948b46d"
+        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670813-7386fa12-0053-433c-836b-f9a68948b46d.svg"
         title="Apache HTTP Server"
         alt="Apache HTTP Server"
         height="60px">
 </a>
 <a href="https://www.haproxy.org/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/02fc0e0b-2747-4caf-9495-f316310fa72f"
+        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670360-02fc0e0b-2747-4caf-9495-f316310fa72f.svg"
         title="HAProxy"
         alt="HAProxy"
         height="60px">
 </a>
 <a href="https://www.isc.org/bind/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/ed98537f-a7e6-4f04-b2c6-e225d8591374"
+        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670544-ed98537f-a7e6-4f04-b2c6-e225d8591374.svg"
         title="Bind9"
         alt="Bind9"
         height="60px">
