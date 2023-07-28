@@ -164,6 +164,16 @@
         height="60px">
 </a>
 
+<h2>Database</h2>
+
+<a href="https://www.sqlite.org/index.html">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/1fe99b21-97da-49fa-a3aa-86c5d06c811c"
+        title="SQLite"
+        alt="SQLite"
+        height="60px">
+</a>
+
 <h2>DevOps</h2>
 
 <a href="https://git-scm.com/">
