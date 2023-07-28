@@ -74,20 +74,13 @@
         height="60px">
 </a>
 
-<h2>Frameworks and Libraries</h2>
+<h2>C/C++</h2>
 
-<a href="https://testng.org/">
+<a href="https://cmake.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726398-89ba64f4-e674-48cc-a306-b104d2dbf522.svg"
-        title="TestNG"
-        alt="TestNG"
-        height="60px">
-</a>
-<a href="https://maven.apache.org/">
-    <img
-        src="https://skillicons.dev/icons?i=maven"
-        title="Maven"
-        alt="Maven"
+        src="https://skillicons.dev/icons?i=cmake"
+        title="CMake"
+        alt="CMake"
         height="60px">
 </a>
 <a href="http://google.github.io/googletest/">
@@ -118,35 +111,73 @@
         alt="OpenMP"
         height="60px">
 </a>
+<a href="https://www.jetbrains.com/ru-ru/clion/">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/894826ca-8beb-46ae-81ff-e4d13e47cae9"
+        title="CLion"
+        alt="CLion"
+        height="60px">
+</a>
 
-<h2>Tools</h2>
+<h2>Java</h2>
 
-<a href="https://en.wikipedia.org/wiki/Assembly_language">
+<a href="https://maven.apache.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726509-a76cb4dd-5985-40ae-a41a-0978d74f2379.svg"
-        title="Assembler"
-        alt="Assembler"
+        src="https://skillicons.dev/icons?i=maven"
+        title="Maven"
+        alt="Maven"
         height="60px">
 </a>
-<a href="https://cmake.org/">
+<a href="https://junit.org/junit5/">
     <img
-        src="https://skillicons.dev/icons?i=cmake"
-        title="CMake"
-        alt="CMake"
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/44c1c260-75b4-4996-8e54-d0ee27d02670"
+        title="JUnit"
+        alt="JUnit"
         height="60px">
 </a>
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://spring.io/">
     <img
-        src="https://skillicons.dev/icons?i=bash"
-        title="Bash"
-        alt="Bash"
+        src="https://skillicons.dev/icons?i=spring"
+        title="Spring Framework"
+        alt="Spring Framework"
         height="60px">
 </a>
+<a href="https://openjfx.io/">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/64d9f43b-bc1c-4b8f-8ba9-094f4c22b202"
+        title="JavaFX"
+        alt="JavaFX"
+        height="60px">
+</a>
+<a href="https://neow3j.io/#/">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/3c8f1cc5-19fc-4b18-9c2d-eb5782f75c84"
+        title="Neow3J"
+        alt="Neow3J"
+        height="60px">
+</a>
+<a href="https://www.jetbrains.com/ru-ru/idea/">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/f9f97497-e151-4545-b163-295be4754ccd"
+        title="IntelliJ IDEA"
+        alt="IntelliJ IDEA"
+        height="60px">
+</a>
+
+<h2>DevOps</h2>
+
 <a href="https://git-scm.com/">
     <img
         src="https://user-images.githubusercontent.com/90527574/230726524-9aaa426e-c76d-4b6c-bd12-60c8bbb3c193.svg"
         title="Git"
         alt="git"
+        height="60px">
+</a>
+<a href="https://about.gitlab.com/">
+    <img
+        src="https://skillicons.dev/icons?i=gitlab"
+        title="GitLab"
+        alt="GitLab"
         height="60px">
 </a>
 <a href="https://github.com/">
@@ -163,32 +194,18 @@
         alt="GitHub Actions"
         height="60px">
 </a>
-<a href="https://code.visualstudio.com/">
+<a href="https://neo.org/">
     <img
-        src="https://skillicons.dev/icons?i=vscode"
-        title="Visual Studio Code"
-        alt="Visual Studio Code"
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/f0bbe42c-4db6-4208-974f-f1477025c760"
+        title="Neo"
+        alt="Neo"
         height="60px">
 </a>
-<a href="https://www.jetbrains.com/">
+<a href="https://www.docker.com/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726548-3ba069be-a8d8-48db-b322-4b4bb691746a.svg"
-        title="JetBrains"
-        alt="JetBrains"
-        height="60px">
-</a>
-<a href="https://ubuntu.com/">
-    <img
-        src="https://skillicons.dev/icons?i=linux"
-        title="Linux"
-        alt="Linux"
-        height="60px">
-</a>
-<a href="https://www.rfc-editor.org/rfc/rfc1180">
-    <img
-        src="https://user-images.githubusercontent.com/90527574/234806847-1b83c3ee-94e8-4c0f-a03e-c5a04f15f3f5.svg"
-        title="TCP/IP"
-        alt="TCP/IP"
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/8ce80ce9-c7a2-4f61-8623-7920195d02b2"
+        title="Docker"
+        alt="Docker"
         height="60px">
 </a>
 <a href="https://www.virtualbox.org/">
@@ -217,5 +234,43 @@
         src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670544-ed98537f-a7e6-4f04-b2c6-e225d8591374.svg"
         title="Bind9"
         alt="Bind9"
+        height="60px">
+</a>
+
+<h2>Other</h2>
+
+<a href="https://en.wikipedia.org/wiki/Assembly_language">
+    <img
+        src="https://user-images.githubusercontent.com/90527574/230726509-a76cb4dd-5985-40ae-a41a-0978d74f2379.svg"
+        title="Assembler"
+        alt="Assembler"
+        height="60px">
+</a>
+<a href="https://www.gnu.org/software/bash/">
+    <img
+        src="https://skillicons.dev/icons?i=bash"
+        title="Bash"
+        alt="Bash"
+        height="60px">
+</a>
+<a href="https://learn.microsoft.com/ru-ru/powershell/">
+    <img
+        src="https://skillicons.dev/icons?i=powershell"
+        title="PowerShell"
+        alt="PowerShell"
+        height="60px">
+</a>
+<a href="https://code.visualstudio.com/">
+    <img
+        src="https://skillicons.dev/icons?i=vscode"
+        title="Visual Studio Code"
+        alt="Visual Studio Code"
+        height="60px">
+</a>
+<a href="https://ubuntu.com/">
+    <img
+        src="https://skillicons.dev/icons?i=linux"
+        title="Linux"
+        alt="Linux"
         height="60px">
 </a>
