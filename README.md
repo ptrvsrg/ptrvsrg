@@ -128,6 +128,13 @@
         alt="Maven"
         height="60px">
 </a>
+<a href="https://gradle.org/">
+    <img
+        src="https://skillicons.dev/icons?i=gradle"
+        title="Gradle"
+        alt="Gradle"
+        height="60px">
+</a>
 <a href="https://junit.org/junit5/">
     <img
         src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/44c1c260-75b4-4996-8e54-d0ee27d02670"
