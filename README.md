@@ -173,6 +173,13 @@
         alt="SQLite"
         height="60px">
 </a>
+<a href="https://www.mysql.com/">
+    <img
+        src="https://skillicons.dev/icons?i=mysql"
+        title="MySQL"
+        alt="MySQL"
+        height="60px">
+</a>
 
 <h2>DevOps</h2>
 
@@ -216,6 +223,13 @@
         src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/8ce80ce9-c7a2-4f61-8623-7920195d02b2"
         title="Docker"
         alt="Docker"
+        height="60px">
+</a>
+<a href="https://www.postman.com/">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/642f4daa-a260-4b42-a488-dc6e908de4c6"
+        title="Postman"
+        alt="Postman"
         height="60px">
 </a>
 <a href="https://www.virtualbox.org/">
