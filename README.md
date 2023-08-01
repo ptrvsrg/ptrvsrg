@@ -187,6 +187,13 @@
         alt="MySQL"
         height="60px">
 </a>
+<a href="https://mariadb.org/">
+    <img
+        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/aeb7238a-9c04-4733-8205-80e75ac5b95e"
+        title="MariaDB"
+        alt="MariaDB"
+        height="60px">
+</a>
 
 <h2>DevOps</h2>
 
