@@ -163,13 +163,6 @@
         alt="Neow3J"
         height="60px">
 </a>
-<a href="https://neow3j.io/#/">
-    <img
-        src="assets/neow3j.svg"
-        title="Neow3J"
-        alt="Neow3J"
-        height="60px">
-</a>
 <a href="https://www.jetbrains.com/ru-ru/idea/">
     <img
         src="assets/idea.svg"
