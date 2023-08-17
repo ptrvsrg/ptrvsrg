@@ -54,21 +54,21 @@
 
 <a href="https://oracle.com/ru/java/">
     <img
-        src="https://skillicons.dev/icons?i=java"
+        src="assets/java.svg"
         title="Java"
         alt="Java"
         height="60px">
 </a>
 <a href="https://iso.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726366-32827d1f-021a-40ed-9572-b9313311fb6e.svg"
+        src="assets/c.svg"
         title="C"
         alt="C"
         height="60px">
 </a>
 <a href="https://isocpp.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726381-9ed4191b-2a7d-4398-a09f-0b3561d8082c.svg"
+        src="assets/c++.svg"
         title="C++"
         alt="C++"
         height="60px">
@@ -78,42 +78,42 @@
 
 <a href="https://cmake.org/">
     <img
-        src="https://skillicons.dev/icons?i=cmake"
+        src="assets/cmake.svg"
         title="CMake"
         alt="CMake"
         height="60px">
 </a>
 <a href="http://google.github.io/googletest/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726439-40ed70c5-d6df-4dab-9405-04527b8b3438.svg"
+        src="assets/gtest.svg"
         title="Google Test"
         alt="Google Test"
         height="60px">
 </a>
 <a href="https://opencv.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726450-040f88b6-642e-4996-9a8f-a9e9cc0a3070.svg"
+        src="assets/opencv.svg"
         title="OpenCV"
         alt="OpenCV"
         height="60px">
 </a>
 <a href="https://www.mpi-forum.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726468-1e02f295-1bc5-4a86-a8ba-b4526d9ad994.svg"
+        src="assets/mpi.svg"
         title="MPI"
         alt="MPI"
         height="60px">
 </a>
 <a href="https://openmp.org/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726492-747fec98-437e-453a-b2e7-37f32fdc5a3f.svg"
+        src="assets/openmp.svg"
         title="OpenMP"
         alt="OpenMP"
         height="60px">
 </a>
 <a href="https://www.jetbrains.com/ru-ru/clion/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/894826ca-8beb-46ae-81ff-e4d13e47cae9"
+        src="assets/clion.svg"
         title="CLion"
         alt="CLion"
         height="60px">
@@ -123,49 +123,56 @@
 
 <a href="https://maven.apache.org/">
     <img
-        src="https://skillicons.dev/icons?i=maven"
+        src="assets/maven.svg"
         title="Maven"
         alt="Maven"
         height="60px">
 </a>
 <a href="https://gradle.org/">
     <img
-        src="https://skillicons.dev/icons?i=gradle"
+        src="assets/gradle.svg"
         title="Gradle"
         alt="Gradle"
         height="60px">
 </a>
-<a href="https://junit.org/junit5/">
-    <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/44c1c260-75b4-4996-8e54-d0ee27d02670"
-        title="JUnit"
-        alt="JUnit"
-        height="60px">
-</a>
 <a href="https://spring.io/">
     <img
-        src="https://skillicons.dev/icons?i=spring"
+        src="assets/spring.svg"
         title="Spring Framework"
         alt="Spring Framework"
         height="60px">
 </a>
+<a href="https://jwt.io/">
+    <img
+        src="assets/jwt.svg"
+        title="JWT"
+        alt="JWT"
+        height="60px">
+</a>
 <a href="https://openjfx.io/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/64d9f43b-bc1c-4b8f-8ba9-094f4c22b202"
+        src="assets/javafx.svg"
         title="JavaFX"
         alt="JavaFX"
         height="60px">
 </a>
 <a href="https://neow3j.io/#/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/3c8f1cc5-19fc-4b18-9c2d-eb5782f75c84"
+        src="assets/neow3j.svg"
+        title="Neow3J"
+        alt="Neow3J"
+        height="60px">
+</a>
+<a href="https://neow3j.io/#/">
+    <img
+        src="assets/neow3j.svg"
         title="Neow3J"
         alt="Neow3J"
         height="60px">
 </a>
 <a href="https://www.jetbrains.com/ru-ru/idea/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/f9f97497-e151-4545-b163-295be4754ccd"
+        src="assets/idea.svg"
         title="IntelliJ IDEA"
         alt="IntelliJ IDEA"
         height="60px">
@@ -175,23 +182,30 @@
 
 <a href="https://www.sqlite.org/index.html">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/1fe99b21-97da-49fa-a3aa-86c5d06c811c"
+        src="assets/sqlite.svg"
         title="SQLite"
         alt="SQLite"
         height="60px">
 </a>
 <a href="https://www.mysql.com/">
     <img
-        src="https://skillicons.dev/icons?i=mysql"
+        src="assets/mysql.svg"
         title="MySQL"
         alt="MySQL"
         height="60px">
 </a>
 <a href="https://mariadb.org/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/aeb7238a-9c04-4733-8205-80e75ac5b95e"
+        src="assets/mariadb.svg"
         title="MariaDB"
         alt="MariaDB"
+        height="60px">
+</a>
+<a href="https://hibernate.org/">
+    <img
+        src="assets/hibernate.svg"
+        title="Hibernate"
+        alt="Hibernate"
         height="60px">
 </a>
 
@@ -199,79 +213,103 @@
 
 <a href="https://git-scm.com/">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726524-9aaa426e-c76d-4b6c-bd12-60c8bbb3c193.svg"
+        src="assets/git.svg"
         title="Git"
         alt="git"
         height="60px">
 </a>
 <a href="https://about.gitlab.com/">
     <img
-        src="https://skillicons.dev/icons?i=gitlab"
+        src="assets/gitlab.svg"
         title="GitLab"
         alt="GitLab"
         height="60px">
 </a>
 <a href="https://github.com/">
     <img
-        src="https://skillicons.dev/icons?i=github"
+        src="assets/github.svg"
         title="GitHub"
         alt="GitHub"
         height="60px">
 </a>
 <a href="https://github.com/features/actions">
     <img
-        src="https://skillicons.dev/icons?i=githubactions"
+        src="assets/github-actions.svg"
         title="GitHub Actions"
         alt="GitHub Actions"
         height="60px">
 </a>
 <a href="https://neo.org/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/f0bbe42c-4db6-4208-974f-f1477025c760"
+        src="assets/neo.svg"
         title="Neo"
         alt="Neo"
         height="60px">
 </a>
 <a href="https://www.docker.com/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/8ce80ce9-c7a2-4f61-8623-7920195d02b2"
+        src="assets/docker.svg"
         title="Docker"
         alt="Docker"
         height="60px">
 </a>
+<a href="https://docs.docker.com/compose/">
+    <img
+        src="assets/docker-compose.svg"
+        title="Docker Compose"
+        alt="Docker Compose"
+        height="60px">
+</a>
 <a href="https://www.postman.com/">
     <img
-        src="https://github.com/ptrvsrg/ptrvsrg/assets/90527574/642f4daa-a260-4b42-a488-dc6e908de4c6"
+        src="assets/postman.svg"
         title="Postman"
         alt="Postman"
         height="60px">
 </a>
 <a href="https://www.virtualbox.org/">
     <img
-        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670216-59bbd10d-c2d5-44ba-825a-f4ccc03c7d05.svg"
+        src="assets/virtualbox.svg"
         title="VirtualBox"
         alt="VirtualBox"
         height="60px">
 </a>
 <a href="https://httpd.apache.org/">
     <img
-        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670813-7386fa12-0053-433c-836b-f9a68948b46d.svg"
+        src="assets/apache-http-server.svg"
         title="Apache HTTP Server"
         alt="Apache HTTP Server"
         height="60px">
 </a>
 <a href="https://www.haproxy.org/">
     <img
-        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670360-02fc0e0b-2747-4caf-9495-f316310fa72f.svg"
+        src="assets/haproxy.svg"
         title="HAProxy"
         alt="HAProxy"
         height="60px">
 </a>
 <a href="https://www.isc.org/bind/">
     <img
-        src="https://github-production-user-asset-6210df.s3.amazonaws.com/90527574/239670544-ed98537f-a7e6-4f04-b2c6-e225d8591374.svg"
+        src="assets/bind9.svg"
         title="Bind9"
         alt="Bind9"
+        height="60px">
+</a>
+
+<h2>Documentation</h2>
+
+<a href="https://swagger.io/">
+    <img
+        src="assets/swagger.svg"
+        title="Swagger"
+        alt="Swagger"
+        height="60px">
+</a>
+<a href="https://swagger.io/specification/">
+    <img
+        src="assets/openapi.svg"
+        title="OpenAPI"
+        alt="OpenAPI"
         height="60px">
 </a>
 
@@ -279,35 +317,35 @@
 
 <a href="https://en.wikipedia.org/wiki/Assembly_language">
     <img
-        src="https://user-images.githubusercontent.com/90527574/230726509-a76cb4dd-5985-40ae-a41a-0978d74f2379.svg"
+        src="assets/assembler.svg"
         title="Assembler"
         alt="Assembler"
         height="60px">
 </a>
 <a href="https://www.gnu.org/software/bash/">
     <img
-        src="https://skillicons.dev/icons?i=bash"
+        src="assets/bash.svg"
         title="Bash"
         alt="Bash"
         height="60px">
 </a>
 <a href="https://learn.microsoft.com/ru-ru/powershell/">
     <img
-        src="https://skillicons.dev/icons?i=powershell"
+        src="assets/powershell.svg"
         title="PowerShell"
         alt="PowerShell"
         height="60px">
 </a>
 <a href="https://code.visualstudio.com/">
     <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="assets/vscode.svg"
         title="Visual Studio Code"
         alt="Visual Studio Code"
         height="60px">
 </a>
 <a href="https://ubuntu.com/">
     <img
-        src="https://skillicons.dev/icons?i=linux"
+        src="assets/linux.svg"
         title="Linux"
         alt="Linux"
         height="60px">
