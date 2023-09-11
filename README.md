@@ -73,6 +73,13 @@
         alt="C++"
         height="60px">
 </a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language">
+    <img
+        src="assets/assembler.svg"
+        title="Assembler"
+        alt="Assembler"
+        height="60px">
+</a>
 
 <h2>C/C++</h2>
 
@@ -204,6 +211,20 @@
 
 <h2>DevOps</h2>
 
+<a href="https://www.gnu.org/software/bash/">
+    <img
+        src="assets/bash.svg"
+        title="Bash"
+        alt="Bash"
+        height="60px">
+</a>
+<a href="https://ubuntu.com/">
+    <img
+        src="assets/linux.svg"
+        title="Linux"
+        alt="Linux"
+        height="60px">
+</a>
 <a href="https://git-scm.com/">
     <img
         src="assets/git.svg"
@@ -232,13 +253,6 @@
         alt="GitHub Actions"
         height="60px">
 </a>
-<a href="https://neo.org/">
-    <img
-        src="assets/neo.svg"
-        title="Neo"
-        alt="Neo"
-        height="60px">
-</a>
 <a href="https://www.docker.com/">
     <img
         src="assets/docker.svg"
@@ -258,6 +272,20 @@
         src="assets/postman.svg"
         title="Postman"
         alt="Postman"
+        height="60px">
+</a>
+<a href="https://code.visualstudio.com/">
+    <img
+        src="assets/vscode.svg"
+        title="Visual Studio Code"
+        alt="Visual Studio Code"
+        height="60px">
+</a>
+<a href="https://neo.org/">
+    <img
+        src="assets/neo.svg"
+        title="Neo"
+        alt="Neo"
         height="60px">
 </a>
 <a href="https://www.virtualbox.org/">
@@ -288,6 +316,13 @@
         alt="Bind9"
         height="60px">
 </a>
+<a href="https://learn.microsoft.com/ru-ru/powershell/">
+    <img
+        src="assets/powershell.svg"
+        title="PowerShell"
+        alt="PowerShell"
+        height="60px">
+</a>
 
 <h2>Documentation</h2>
 
@@ -303,43 +338,5 @@
         src="assets/openapi.svg"
         title="OpenAPI"
         alt="OpenAPI"
-        height="60px">
-</a>
-
-<h2>Other</h2>
-
-<a href="https://en.wikipedia.org/wiki/Assembly_language">
-    <img
-        src="assets/assembler.svg"
-        title="Assembler"
-        alt="Assembler"
-        height="60px">
-</a>
-<a href="https://www.gnu.org/software/bash/">
-    <img
-        src="assets/bash.svg"
-        title="Bash"
-        alt="Bash"
-        height="60px">
-</a>
-<a href="https://learn.microsoft.com/ru-ru/powershell/">
-    <img
-        src="assets/powershell.svg"
-        title="PowerShell"
-        alt="PowerShell"
-        height="60px">
-</a>
-<a href="https://code.visualstudio.com/">
-    <img
-        src="assets/vscode.svg"
-        title="Visual Studio Code"
-        alt="Visual Studio Code"
-        height="60px">
-</a>
-<a href="https://ubuntu.com/">
-    <img
-        src="assets/linux.svg"
-        title="Linux"
-        alt="Linux"
         height="60px">
 </a>
