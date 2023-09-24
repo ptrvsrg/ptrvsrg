@@ -73,6 +73,13 @@
         alt="C++"
         height="60px">
 </a>
+<a href="https://go.dev/">
+    <img
+        src="assets/golang.svg"
+        title="Go"
+        alt="Go"
+        height="60px">
+</a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language">
     <img
         src="assets/assembler.svg"
