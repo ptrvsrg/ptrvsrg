@@ -187,13 +187,6 @@
 
 <h2>Database</h2>
 
-<a href="https://www.sqlite.org/index.html">
-    <img
-        src="assets/sqlite.svg"
-        title="SQLite"
-        alt="SQLite"
-        height="60px">
-</a>
 <a href="https://www.postgresql.org/">
     <img
         src="assets/postgresql.svg"
@@ -220,6 +213,13 @@
         src="assets/hibernate.svg"
         title="Hibernate"
         alt="Hibernate"
+        height="60px">
+</a>
+<a href="https://www.sqlite.org/index.html">
+    <img
+        src="assets/sqlite.svg"
+        title="SQLite"
+        alt="SQLite"
         height="60px">
 </a>
 
