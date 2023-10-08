@@ -194,6 +194,13 @@
         alt="SQLite"
         height="60px">
 </a>
+<a href="https://www.postgresql.org/">
+    <img
+        src="assets/postgresql.svg"
+        title="PostgreSQL"
+        alt="PostgreSQL"
+        height="60px">
+</a>
 <a href="https://www.mysql.com/">
     <img
         src="assets/mysql.svg"
