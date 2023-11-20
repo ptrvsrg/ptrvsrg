@@ -208,6 +208,13 @@
         alt="MariaDB"
         height="60px">
 </a>
+<a style="text-decoration: none;" href="https://www.liquibase.org/">
+    <img
+        src="assets/liquibase.svg"
+        title="Liquibase"
+        alt="Liquibase"
+        height="60px">
+</a>
 <a style="text-decoration: none;" href="https://hibernate.org/">
     <img
         src="assets/hibernate.svg"
@@ -352,5 +359,12 @@
         src="assets/openapi.svg"
         title="OpenAPI"
         alt="OpenAPI"
+        height="60px">
+</a>
+<a style="text-decoration: none;" href="https://www.uml.org/">
+    <img
+        src="assets/uml.svg"
+        title="UML"
+        alt="UML"
         height="60px">
 </a>
