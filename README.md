@@ -42,13 +42,25 @@
 <h2>GitHub Stats</h2>
 
 <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptrvsrg&theme=radical"
-    alt="GitHub Stats"
-    title="GitHub Stats">
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptrvsrg&theme=2077"
+    alt="Profile details card"
+    title="Profile details card">
 <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptrvsrg&theme=radical"
-    alt="Top Commit Languages"
-    title="Top Commit Languages">
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptrvsrg&theme=2077"
+    alt="GitHub stats card"
+    title="GitHub stats card">
+<img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptrvsrg&theme=2077"
+    alt="Top languages used in repository card"
+    title="Top languages used in repository card">
+<img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptrvsrg&theme=2077"
+    alt="Top languages in commits card"
+    title="Top languages in commits card">
+<img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptrvsrg&theme=2077&utcOffset=7"
+    alt="Productive time card"
+    title="Productive time card">
 
 <h2>Languages</h2>
 
