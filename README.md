@@ -7,31 +7,31 @@
 </h1>
 
 <p align="center">
-    <a style="text-decoration: none;" href="http://papertoilet.com/">
+    <a style="text-decoration: none; margin-right: 5px;" href="http://papertoilet.com/">
         <img
             src="https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=00AA00"
             alt="View Count"
             title="View count (click for something interesting)">
     </a>
-    <a style="text-decoration: none;" href="https://vk.com/ptrvsrg/">
+    <a style="text-decoration: none; margin-right: 5px;" href="https://vk.com/ptrvsrg/">
         <img
             src="https://img.shields.io/badge/-Vkontakte-1155ba?style=for-the-badge&logo=Vk"
             title="VK"
             alt="VK">
     </a>
-    <a style="text-decoration: none;" href="https://instagram.com/ptrvsrg/">
+    <a style="text-decoration: none; margin-right: 5px;" href="https://instagram.com/ptrvsrg/">
         <img
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
             title="Instagram"
             alt="Instagram">
     </a>
-    <a style="text-decoration: none;" href="https://t.me/ptrvsrg/">
+    <a style="text-decoration: none; margin-right: 5px;" href="https://t.me/ptrvsrg/">
         <img
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
             title="Telegram"
             alt="Telagram">
     </a>
-    <a style="text-decoration: none;" href="mailto:s.petrov1@g.nsu.ru">
+    <a style="text-decoration: none; margin-right: 5px;" href="mailto:s.petrov1@g.nsu.ru">
         <img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             title="GMail"
@@ -52,30 +52,30 @@
 
 <h2>Languages</h2>
 
-<a style="text-decoration: none;" href="https://oracle.com/ru/java/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://oracle.com/ru/java/">
     <img
-        src="https://skillicons.dev/icons?i=java"
+        src="https://www.svgrepo.com/show/353924/java.svg"
         title="Java"
         alt="Java"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://iso.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://iso.org/">
     <img
-        src="https://skillicons.dev/icons?i=c"
+        src="https://www.svgrepo.com/show/353528/c.svg"
         title="C"
         alt="C"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://isocpp.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://isocpp.org/">
     <img
-        src="https://skillicons.dev/icons?i=cpp"
+        src="https://www.svgrepo.com/show/353614/c-plusplus.svg"
         title="C++"
         alt="C++"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://go.dev/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://go.dev/">
     <img
-        src="https://skillicons.dev/icons?i=go"
+        src="https://www.svgrepo.com/show/353795/go.svg"
         title="Go"
         alt="Go"
         height="60px">
@@ -83,78 +83,85 @@
 
 <h2>C/C++</h2>
 
-<a style="text-decoration: none;" href="https://cmake.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://cmake.org/">
     <img
-        src="https://skillicons.dev/icons?i=cmake"
+        src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"
         title="CMake"
         alt="CMake"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="http://google.github.io/googletest/">
+<a style="text-decoration: none; margin-right: 5px;" href="http://google.github.io/googletest/">
     <img
-        src="assets/gtest.svg"
+        src="https://www.svgrepo.com/show/353817/google-icon.svg"
         title="Google Test"
         alt="Google Test"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://www.mpi-forum.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.jetbrains.com/ru-ru/clion/">
     <img
-        src="assets/mpi.svg"
-        title="MPI"
-        alt="MPI"
-        height="60px">
-</a>
-<a style="text-decoration: none;" href="https://openmp.org/">
-    <img
-        src="assets/openmp.svg"
-        title="OpenMP"
-        alt="OpenMP"
+        src="https://www.svgrepo.com/show/353557/clion.svg"
+        title="CLion"
+        alt="CLion"
         height="60px">
 </a>
 
 <h2>Java</h2>
 
-<a style="text-decoration: none;" href="https://maven.apache.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://maven.apache.org/">
     <img
-        src="https://skillicons.dev/icons?i=maven"
+        src="https://www.svgrepo.com/show/354051/maven.svg"
         title="Maven"
         alt="Maven"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://gradle.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://gradle.org/">
     <img
-        src="https://skillicons.dev/icons?i=gradle"
+        src="https://www.svgrepo.com/show/353831/gradle.svg"
         title="Gradle"
         alt="Gradle"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://spring.io/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://spring.io/">
     <img
-        src="https://skillicons.dev/icons?i=spring"
+        src="https://www.svgrepo.com/show/354380/spring-icon.svg"
         title="Spring Framework"
         alt="Spring Framework"
         height="60px">
 </a>
-
-<h2>Database</h2>
-
-<a style="text-decoration: none;" href="https://www.postgresql.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.jetbrains.com/ru-ru/idea/">
     <img
-        src="https://skillicons.dev/icons?i=postgres"
+        src="https://www.svgrepo.com/show/353906/intellij-idea.svg"
+        title="Intellij Idea"
+        alt="Intellij Idea"
+        height="60px">
+</a>
+
+<h2>Database / Cache</h2>
+
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.postgresql.org/">
+    <img
+        src="https://www.svgrepo.com/show/354200/postgresql.svg"
         title="PostgreSQL"
         alt="PostgreSQL"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://hibernate.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://redis.io/">
     <img
-        src="https://skillicons.dev/icons?i=hibernate"
+        src="https://www.svgrepo.com/show/354272/redis.svg"
+        title="Redis"
+        alt="Redis"
+        height="60px">
+</a>
+<a style="text-decoration: none; margin-right: 5px;" href="https://hibernate.org/">
+    <img
+        src="https://www.svgrepo.com/show/353874/hibernate.svg"
         title="Hibernate"
         alt="Hibernate"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://www.liquibase.org/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.liquibase.org/">
     <img
-        src="assets/liquibase.svg"
+        src="https://www.liquibase.com/wp-content/uploads/2020/05/Liquibase_logo_vertical_RGB.svg"
         title="Liquibase"
         alt="Liquibase"
         height="60px">
@@ -162,96 +169,89 @@
 
 <h2>DevOps</h2>
 
-<a style="text-decoration: none;" href="https://ubuntu.com/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://ubuntu.com/">
     <img
-        src="https://skillicons.dev/icons?i=linux"
+        src="https://www.svgrepo.com/show/354004/linux-tux.svg"
         title="Linux"
         alt="Linux"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://www.gnu.org/software/bash/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.gnu.org/software/bash/">
     <img
-        src="https://skillicons.dev/icons?i=bash"
+        src="https://www.svgrepo.com/show/353478/bash-icon.svg"
         title="Bash"
         alt="Bash"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://git-scm.com/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://git-scm.com/">
     <img
-        src="https://skillicons.dev/icons?i=git"
+        src="https://www.svgrepo.com/show/353782/git-icon.svg"
         title="Git"
         alt="git"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://github.com/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://github.com/">
     <img
-        src="https://skillicons.dev/icons?i=github"
+        src="https://www.svgrepo.com/show/353783/github-octocat.svg"
         title="GitHub"
         alt="GitHub"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://about.gitlab.com/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://about.gitlab.com/">
     <img
-        src="https://skillicons.dev/icons?i=gitlab"
+        src="https://www.svgrepo.com/show/353785/gitlab.svg"
         title="GitLab"
         alt="GitLab"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://github.com/features/actions">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.docker.com/">
     <img
-        src="https://skillicons.dev/icons?i=githubactions"
-        title="GitHub Actions"
-        alt="GitHub Actions"
-        height="60px">
-</a>
-<a style="text-decoration: none;" href="https://www.docker.com/">
-    <img
-        src="https://skillicons.dev/icons?i=docker"
+        src="https://www.svgrepo.com/show/353659/docker-icon.svg"
         title="Docker"
         alt="Docker"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://www.postman.com/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.postman.com/">
     <img
-        src="https://skillicons.dev/icons?i=postman"
+        src="https://www.svgrepo.com/show/354202/postman-icon.svg"
         title="Postman"
         alt="Postman"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://nginx.org/ru/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://nginx.org/ru/">
     <img
-        src="https://skillicons.dev/icons?i=nginx"
+        src="https://www.svgrepo.com/show/354115/nginx.svg"
         title="Nginx"
         alt="Nginx"
+        height="60px">
+</a>
+<a style="text-decoration: none; margin-right: 5px;" href="https://nginx.org/ru/">
+    <img
+        src="https://www.svgrepo.com/show/353994/letsencrypt.svg"
+        title="Let`s Encrypt"
+        alt="Let`s Encrypt"
         height="60px">
 </a>
 
 <h2>Documentation</h2>
 
-<a style="text-decoration: none;" href="https://daringfireball.net/projects/markdown/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://daringfireball.net/projects/markdown/">
     <img
-        src="https://skillicons.dev/icons?i=markdown"
+        src="https://www.svgrepo.com/show/354040/markdown.svg"
         title="Markdown"
         alt="Markdown"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://swagger.io/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://swagger.io/">
     <img
-        src="assets/swagger.svg"
+        src="https://www.svgrepo.com/show/354420/swagger.svg"
         title="Swagger"
         alt="Swagger"
         height="60px">
 </a>
-<a style="text-decoration: none;" href="https://swagger.io/specification/">
+<a style="text-decoration: none; margin-right: 5px;" href="https://www.uml.org/">
     <img
-        src="assets/openapi.svg"
-        title="OpenAPI"
-        alt="OpenAPI"
-        height="60px">
-</a>
-<a style="text-decoration: none;" href="https://www.uml.org/">
-    <img
-        src="assets/uml.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg"
         title="UML"
         alt="UML"
         height="60px">
