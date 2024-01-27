@@ -109,7 +109,7 @@
 
 <a style="text-decoration: none; margin-right: 10px;" href="https://maven.apache.org/">
     <img
-        src="https://www.svgrepo.com/show/354051/maven.svg"
+        src="https://www.svgrepo.com/show/373829/maven.svg"
         title="Maven"
         alt="Maven"
         height="60px">
@@ -161,7 +161,7 @@
 </a>
 <a style="text-decoration: none; margin-right: 10px;" href="https://www.liquibase.org/">
     <img
-        src="https://www.liquibase.com/wp-content/uploads/2020/05/Liquibase_logo_vertical_RGB.svg"
+        src="https://icon.icepanel.io/Technology/svg/Liquibase.svg"
         title="Liquibase"
         alt="Liquibase"
         height="60px">
@@ -192,7 +192,7 @@
 </a>
 <a style="text-decoration: none; margin-right: 10px;" href="https://github.com/">
     <img
-        src="https://www.svgrepo.com/show/353783/github-octocat.svg"
+        src="https://www.svgrepo.com/show/475654/github-color.svg"
         title="GitHub"
         alt="GitHub"
         height="60px">
@@ -227,7 +227,7 @@
 </a>
 <a style="text-decoration: none; margin-right: 10px;" href="https://nginx.org/ru/">
     <img
-        src="https://www.svgrepo.com/show/353994/letsencrypt.svg"
+        src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"
         title="Let`s Encrypt"
         alt="Let`s Encrypt"
         height="60px">
@@ -251,7 +251,7 @@
 </a>
 <a style="text-decoration: none; margin-right: 10px;" href="https://www.uml.org/">
     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg"
+        src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg"
         title="UML"
         alt="UML"
         height="60px">
