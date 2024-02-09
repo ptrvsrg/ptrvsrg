@@ -80,6 +80,13 @@
         alt="Go"
         height="60px">
 </a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://javascript.ru/">
+    <img
+        src="https://www.svgrepo.com/show/353925/javascript.svg"
+        title="JavaSript"
+        alt="JavaSript"
+        height="60px">
+</a>
 
 <h2>C/C++</h2>
 
@@ -128,11 +135,56 @@
         alt="Spring Framework"
         height="60px">
 </a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://hibernate.org/">
+    <img
+        src="https://www.svgrepo.com/show/353874/hibernate.svg"
+        title="Hibernate"
+        alt="Hibernate"
+        height="60px">
+</a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.jetbrains.com/ru-ru/idea/">
     <img
         src="https://www.svgrepo.com/show/353906/intellij-idea.svg"
         title="Intellij Idea"
         alt="Intellij Idea"
+        height="60px">
+</a>
+
+<h2>JS</h2>
+
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://react.dev/">
+    <img
+        src="https://www.svgrepo.com/show/354259/react.svg"
+        title="React"
+        alt="React"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://mobx.js.org/">
+    <img
+        src="https://www.svgrepo.com/show/354478/typescript-icon.svg"
+        title="TypeScript"
+        alt="TypeScript"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://mobx.js.org/">
+    <img
+        src="https://www.svgrepo.com/show/354078/mobx.svg"
+        title="Mobx"
+        alt="Mobx"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.styled-components.com/">
+    <img
+        src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"
+        title="Styled components"
+        alt="Styled components"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.jetbrains.com/ru-ru/phpstorm/">
+    <img
+        src="https://www.svgrepo.com/show/354184/phpstorm.svg"
+        title="Phpstorm"
+        alt="Phpstorm"
         height="60px">
 </a>
 
@@ -150,13 +202,6 @@
         src="https://www.svgrepo.com/show/354272/redis.svg"
         title="Redis"
         alt="Redis"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://hibernate.org/">
-    <img
-        src="https://www.svgrepo.com/show/353874/hibernate.svg"
-        title="Hibernate"
-        alt="Hibernate"
         height="60px">
 </a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.liquibase.org/">
