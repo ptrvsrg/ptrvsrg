@@ -75,7 +75,7 @@
 </a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://go.dev/">
     <img
-        src="https://www.svgrepo.com/show/353795/go.svg"
+        src="https://www.svgrepo.com/show/353830/gopher.svg"
         title="Go"
         alt="Go"
         height="60px">
