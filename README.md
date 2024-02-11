@@ -7,31 +7,31 @@
 </h1>
 
 <p align="center">
-    <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="http://papertoilet.com/">
+    <a target="_blank" style="text-decoration: none;" href="http://papertoilet.com/">
         <img
             src="https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=00AA00"
             alt="View Count"
             title="View count (click for something interesting)">
     </a>
-    <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://vk.com/ptrvsrg/">
+    <a target="_blank" style="text-decoration: none;" href="https://vk.com/ptrvsrg/">
         <img
             src="https://img.shields.io/badge/-Vkontakte-1155ba?style=for-the-badge&logo=Vk"
             title="VK"
             alt="VK">
     </a>
-    <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://instagram.com/ptrvsrg/">
+    <a target="_blank" style="text-decoration: none;" href="https://instagram.com/ptrvsrg/">
         <img
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
             title="Instagram"
             alt="Instagram">
     </a>
-    <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://t.me/ptrvsrg/">
+    <a target="_blank" style="text-decoration: none;" href="https://t.me/ptrvsrg/">
         <img
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
             title="Telegram"
             alt="Telagram">
     </a>
-    <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="mailto:s.petrov1@g.nsu.ru">
+    <a target="_blank" style="text-decoration: none;" href="mailto:s.petrov1@g.nsu.ru">
         <img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             title="GMail"
@@ -80,35 +80,18 @@
         alt="Go"
         height="60px">
 </a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.python.org/">
+    <img
+        src="https://www.svgrepo.com/show/354238/python.svg"
+        title="Python"
+        alt="Python"
+        height="60px">
+</a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://javascript.ru/">
     <img
         src="https://www.svgrepo.com/show/353925/javascript.svg"
         title="JavaSript"
         alt="JavaSript"
-        height="60px">
-</a>
-
-<h2>C/C++</h2>
-
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://cmake.org/">
-    <img
-        src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"
-        title="CMake"
-        alt="CMake"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="http://google.github.io/googletest/">
-    <img
-        src="https://www.svgrepo.com/show/353817/google-icon.svg"
-        title="Google Test"
-        alt="Google Test"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.jetbrains.com/ru-ru/clion/">
-    <img
-        src="https://www.svgrepo.com/show/353557/clion.svg"
-        title="CLion"
-        alt="CLion"
         height="60px">
 </a>
 
@@ -147,6 +130,61 @@
         src="https://www.svgrepo.com/show/353906/intellij-idea.svg"
         title="Intellij Idea"
         alt="Intellij Idea"
+        height="60px">
+</a>
+
+<h2>C/C++</h2>
+
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://cmake.org/">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"
+        title="CMake"
+        alt="CMake"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="http://google.github.io/googletest/">
+    <img
+        src="https://www.svgrepo.com/show/353817/google-icon.svg"
+        title="Google Test"
+        alt="Google Test"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.jetbrains.com/ru-ru/clion/">
+    <img
+        src="https://www.svgrepo.com/show/353557/clion.svg"
+        title="CLion"
+        alt="CLion"
+        height="60px">
+</a>
+
+<h2>Python</h2>
+
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://numpy.org/">
+    <img
+        src="https://www.svgrepo.com/show/354127/numpy.svg"
+        title="NumPy"
+        alt="NumPy"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.djangoproject.com/">
+    <img
+        src="https://www.svgrepo.com/show/353657/django-icon.svg"
+        title="Django"
+        alt="Django"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://jupyter.org/">
+    <img
+        src="https://www.svgrepo.com/show/353949/jupyter.svg"
+        title="Jupyter"
+        alt="Jupyter"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.jetbrains.com/ru-ru/pycharm/">
+    <img
+        src="https://www.svgrepo.com/show/354237/pycharm.svg"
+        title="PyCharm"
+        alt="PyCharm"
         height="60px">
 </a>
 
@@ -256,6 +294,13 @@
         alt="Docker"
         height="60px">
 </a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://kafka.apache.org/">
+    <img
+        src="https://www.svgrepo.com/show/353951/kafka-icon.svg"
+        title="Apache Kafka"
+        alt="Apache Kafka"
+        height="60px">
+</a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.postman.com/">
     <img
         src="https://www.svgrepo.com/show/354202/postman-icon.svg"
@@ -270,7 +315,7 @@
         alt="Nginx"
         height="60px">
 </a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://nginx.org/ru/">
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://letsencrypt.org/ru/">
     <img
         src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"
         title="Let`s Encrypt"
