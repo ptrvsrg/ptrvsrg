@@ -66,11 +66,11 @@
         alt="C"
         height="60px">
 </a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://isocpp.org/">
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://javascript.ru/">
     <img
-        src="https://www.svgrepo.com/show/353614/c-plusplus.svg"
-        title="C++"
-        alt="C++"
+        src="https://www.svgrepo.com/show/353925/javascript.svg"
+        title="JavaSript"
+        alt="JavaSript"
         height="60px">
 </a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://go.dev/">
@@ -85,13 +85,6 @@
         src="https://www.svgrepo.com/show/354238/python.svg"
         title="Python"
         alt="Python"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://javascript.ru/">
-    <img
-        src="https://www.svgrepo.com/show/353925/javascript.svg"
-        title="JavaSript"
-        alt="JavaSript"
         height="60px">
 </a>
 
@@ -157,37 +150,6 @@
         height="60px">
 </a>
 
-<h2>Python</h2>
-
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://numpy.org/">
-    <img
-        src="https://www.svgrepo.com/show/354127/numpy.svg"
-        title="NumPy"
-        alt="NumPy"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.djangoproject.com/">
-    <img
-        src="https://www.svgrepo.com/show/353657/django-icon.svg"
-        title="Django"
-        alt="Django"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://jupyter.org/">
-    <img
-        src="https://www.svgrepo.com/show/353949/jupyter.svg"
-        title="Jupyter"
-        alt="Jupyter"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.jetbrains.com/ru-ru/pycharm/">
-    <img
-        src="https://www.svgrepo.com/show/354237/pycharm.svg"
-        title="PyCharm"
-        alt="PyCharm"
-        height="60px">
-</a>
-
 <h2>JS</h2>
 
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://react.dev/">
@@ -202,13 +164,6 @@
         src="https://www.svgrepo.com/show/354478/typescript-icon.svg"
         title="TypeScript"
         alt="TypeScript"
-        height="60px">
-</a>
-<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://mobx.js.org/">
-    <img
-        src="https://www.svgrepo.com/show/354078/mobx.svg"
-        title="Mobx"
-        alt="Mobx"
         height="60px">
 </a>
 <a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.styled-components.com/">
@@ -320,6 +275,13 @@
         src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"
         title="Let`s Encrypt"
         alt="Let`s Encrypt"
+        height="60px">
+</a>
+<a target="_blank" style="text-decoration: none; margin-right: 10px;" href="https://www.keycloak.org/">
+    <img
+        src="https://www.svgrepo.com/show/331455/keycloak.svg"
+        title="Keycloak"
+        alt="Keycloak"
         height="60px">
 </a>
 
