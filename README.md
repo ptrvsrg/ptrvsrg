@@ -27,7 +27,7 @@
     <h2>👩‍💻 About Me</h2>
     <ul>
         <li>🏫 I'm a student at <a target="_blank" style="text-decoration: none;" href="https://www.nsu.ru">Novosibirsk State University</a></li>
-        <li>💻 I'm a novice full stack developer</li>
+        <li>💻 I'm a novice full stack developer (Golang, TypeScript)</li>
         <li>📚 I'm currently learning distributed systems and event driven architectures</li>
         <li>📚 I regulary read articles on <a target="_blank" style="text-decoration: none;" href="https://habr.com">Habr</a>, <a target="_blank" style="text-decoration: none;" href="https://dev.to/">DEV</a> and <a target="_blank" style="text-decoration: none;" href="https://medium.com">Medium</a></li>
         <li>🏀 In my free time I play basketball</li>
