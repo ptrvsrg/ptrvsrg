@@ -37,7 +37,7 @@
     <h2>📈 Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ptrvsrg&show=prs_merged,reviews&show_icons=true&theme=radical" alt="GitHub stats">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&size_weight=0.5&count_weight=0.5&hide=Jupyter Notebook&langs_count=8&layout=compact&theme=radical" alt="Top languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&size_weight=0.5&count_weight=0.5&hide=Jupyter Notebook&langs_count=8&theme=radical" alt="Top languages">
 </div>
 
 <div id="skills">
