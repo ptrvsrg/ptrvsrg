@@ -35,9 +35,9 @@
 
 <div id="stats">
     <h2>📈 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ptrvsrg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&custom_title=GitHub Stats&show_icons=true&rank_icon=default&theme=transparent&locale=en&card_width=500px" alt="GitHub stats" title="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ptrvsrg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&custom_title=GitHub Stats&show_icons=true&rank_icon=default&theme=transparent&locale=en&card_width=400px" alt="GitHub stats" title="GitHub stats">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&size_weight=0.5&count_weight=0.5&exclude_repo=blockchain-metaverse&hide=CMake,PLpgSQL,Jupyter Notebook&custom_title=Top Languages&langs_count=20&layout=compact&theme=transparent&locale=en&card_width=500px&stats_format=percentages" alt="Top languages" title="Top languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&size_weight=0.5&count_weight=0.5&exclude_repo=blockchain-metaverse&hide=CMake,PLpgSQL,Jupyter Notebook&custom_title=Top Languages&langs_count=20&layout=compact&theme=transparent&locale=en&card_width=400px&stats_format=percentages" alt="Top languages" title="Top languages">
 </div>
 
 <div id="skills">
