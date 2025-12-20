@@ -35,9 +35,9 @@
 
 <div id="stats">
     <h2>📈 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ptrvsrg&show=prs_merged,reviews&show_icons=true&theme=radical" alt="GitHub stats" title="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ptrvsrg&show=prs_merged,reviews&show_icons=true&theme=radical" alt="GitHub stats">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&size_weight=0.5&count_weight=0.5&exclude_repo=blockchain-metaverse&hide=Jupyter Notebook&langs_count=16&layout=compact&theme=radical" alt="Top languages" title="Top languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&size_weight=0.5&count_weight=0.5&exclude_repo=blockchain-metaverse&hide=Jupyter Notebook&langs_count=16&layout=compact&theme=radical" alt="Top languages">
 </div>
 
 <div id="skills">
