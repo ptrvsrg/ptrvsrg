@@ -98,6 +98,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" title="Colab" alt="Colab" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" height="30px" />
+    <img src="assets/logo/catboost.svg" title="CatBoost" alt="CatBoost" height="30px" />
     <h3> 📊 Testing & Documentation</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" title="k6" alt="k6" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" height="30px" />

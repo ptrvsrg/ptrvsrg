@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 327 290.95651">
+    <defs>
+        <style>.cls-1{fill:#fc0;}.cls-2{fill:red;}.cls-3{fill:#fff;}</style>
+    </defs>
+    <title>catboost</title>
+    <polygon class="cls-1"
+             points="6.968 4.612 6.968 285.058 243.026 285.058 321.713 144.835 242.018 4.612 6.968 4.612"/>
+    <circle class="cls-2" cx="182.94586" cy="84.70822" r="30.91657"/>
+    <rect class="cls-2" x="164.90939" y="102.90747" width="7.73316" height="72.63353"
+          transform="translate(34.11675 -33.21593) rotate(12.49417)"/>
+    <circle class="cls-3" cx="114.34758" cy="84.70822" r="30.91657"/>
+    <rect class="cls-3" x="125.81851" y="104.54676" width="7.73316" height="72.63353"
+          transform="translate(286.77342 250.33503) rotate(167.50583)"/>
+    <circle class="cls-3" cx="225.9926" cy="126.57106" r="22.07397"/>
+    <rect class="cls-3" x="192.20417" y="129.20308" width="7.28063" height="51.85925"
+          transform="translate(211.09095 404.50946) rotate(-131.88212)"/>
+    <circle class="cls-3" cx="71.35883" cy="129.53378" r="22.07397"/>
+    <rect class="cls-3" x="98.73325" y="131.22231" width="7.28063" height="51.85925"
+          transform="translate(286.98047 190.27854) rotate(133.25457)"/>
+    <circle class="cls-2" cx="149.71257" cy="199.81445" r="43.88276"/>
+</svg>
