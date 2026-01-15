@@ -1,5 +1,5 @@
 <h1>
-    Hi, I'm Sergey <img alt="" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32px"/>
+    Hi, there <img alt="" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32px"/>
 </h1>
 
 <p>
