@@ -53,7 +53,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" title="Helm" alt="Helm" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" height="30px"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" title="vSphere" alt="vSphere" height="30px" />
+    <img src="./assets/logo/azure.svg" title="Azure" alt="Azure" height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" height="30px" />
+    <img src="./assets/logo/aws.svg" title="Amazon Web Services" alt="Amazon Web Services" height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg" title="OpenStack" alt="OpenStack" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" title="Envoy" alt="Envoy" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" title="Traefik" alt="Traefik" height="30px" />
