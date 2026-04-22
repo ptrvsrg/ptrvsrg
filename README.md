@@ -32,7 +32,9 @@ spec:
     - Basketball and football (on PlayStation)
 -->
 
-![About me](/assets/github-profile.png)
+<div align="center">
+    <img src="/assets/github-profile.png" height="600">
+</div>
 
 ## 📊 Stats
 
