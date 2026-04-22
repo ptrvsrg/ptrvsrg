@@ -39,8 +39,8 @@ spec:
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ptrvsrg&show_icons=true&theme=transparent&show_icons=true&custom_title=GitHub%20Stats)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ptrvsrg&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&layout=donut&theme=transparent&size_weight=0.25&count_weight=0.75)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ptrvsrg&theme=transparent)
 
 </div>
 
