@@ -6,7 +6,7 @@
 
 <!---
 apiVersion: github.io/v1
-kind: Profile
+kind: GithubProfile
 metadata:
   name: petrov-sergei
 spec:
@@ -17,16 +17,14 @@ spec:
     - Bachelor's in Informatics and Computer Engineering
     - Master's in Informatics and Computer Engineering
   skills:
-    languages: [Golang, Python, TypeScript, Java]
+    languages: [Go, Python, TypeScript, Java]
     cloud: [Kubernetes, OpenStack, VMware]
-    administration: [Linux, Bash, Networking]
-    devops: [Docker, CI/CD, Terraform]
+    devops: [Docker, Linux, Terraform, Vagrant, CI/CD]
     backend: [Microservices, REST, gRPC, GraphQL]
-    frontend: [ReactJS, VueJS, Styled Components]
-    ml: [PyTorch, TensorFlow, scikit-learn]
-    databases: [PostgreSQL, Redis, MongoDB]
-    messaging: [Apache Kafka, RabbitMQ]
-    observability: [Prometheus, Grafana, OpenTelemetry]
+    data: [PostgreSQL, Redis, MongoDB, Apache Kafka, RabbitMQ]
+    frontend: [React, Vue, Styled Components, Storybook]
+    ml: [PyTorch, TensorFlow, scikit-learn, Keras]
+    observability: [Prometheus, Grafana, Kibana, OpenTelemetry]
   hobbies:
     - Reading technical articles
     - Basketball and football (on PlayStation)
