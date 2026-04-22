@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-```yaml
+<!---
 apiVersion: github.io/v1
 kind: Profile
 metadata:
@@ -30,7 +30,9 @@ spec:
   hobbies:
     - Reading technical articles
     - Basketball and football (on PlayStation)
-```
+-->
+
+![About me](/assets/github-profile.png)
 
 ## 📊 Stats
 
