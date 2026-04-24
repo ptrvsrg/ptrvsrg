@@ -20,7 +20,7 @@ spec:
     languages: [Go, Python, TypeScript, Java]
     cloud: [Kubernetes, OpenStack, VMware]
     devops: [Docker, Linux, Terraform, Vagrant, CI/CD]
-    backend: [Microservices, REST, gRPC, GraphQL]
+    backend: [Microservices, REST, gRPC, GraphQL, MCP]
     data: [PostgreSQL, Redis, MongoDB, Apache Kafka, RabbitMQ]
     frontend: [React, Vue, Styled Components, Storybook]
     ml: [PyTorch, TensorFlow, scikit-learn, Keras]
@@ -28,6 +28,9 @@ spec:
   hobbies:
     - Reading technical articles
     - Basketball and football (on PlayStation)
+  currentlyLearning:
+    - Rust programming
+    - Building AI Agents
 -->
 
 <div align="center">
