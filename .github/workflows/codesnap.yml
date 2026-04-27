@@ -115,6 +115,8 @@ jobs:
               output.write(f"background={metadata.get('background', '')}\n")
               output.write(f"code_theme={metadata.get('codeTheme', '')}\n")
               output.write(f"themes_folder={metadata.get('themesFolder', '')}\n")
+              output.write(f"margin_x={metadata.get('marginX', '')}\n")
+              output.write(f"margin_y={metadata.get('marginY', '')}\n")
           PY
 
       - name: Generate snapshot
@@ -127,6 +129,13 @@ jobs:
           if [[ -n "${{ steps.parse.outputs.background }}" && -z "${{ steps.parse.outputs.themes_folder }}" ]]; then
             background_args+=(--background "${{ steps.parse.outputs.background }}")
           fi
+          margin_args=()
+          if [[ -n "${{ steps.parse.outputs.margin_x }}" ]]; then
+            margin_args+=(--margin-x "${{ steps.parse.outputs.margin_x }}")
+          fi
+          if [[ -n "${{ steps.parse.outputs.margin_y }}" ]]; then
+            margin_args+=(--margin-y "${{ steps.parse.outputs.margin_y }}")
+          fi
           code_theme_args=()
           if [[ -n "${{ steps.parse.outputs.code_theme }}" && -z "${{ steps.parse.outputs.themes_folder }}" ]]; then
             code_theme_args+=(--code-theme "${{ steps.parse.outputs.code_theme }}")
@@ -135,22 +144,7 @@ jobs:
             THEME="${{ steps.parse.outputs.code_theme }}" \
             THEMES_FOLDER="${{ steps.parse.outputs.themes_folder }}" \
             BACKGROUND="${{ steps.parse.outputs.background }}" \
-            python3 <<'PY'
-import json
-import os
-from pathlib import Path
-
-config = {
-    "print_eggs": False,
-    "snapshot_config": {
-        "theme": os.environ["THEME"],
-        "themes_folders": [os.environ["THEMES_FOLDER"]],
-        "background": os.environ.get("BACKGROUND") or "#00000000",
-    },
-}
-
-Path(".codesnap/runtime-config.json").write_text(json.dumps(config), encoding="utf-8")
-PY
+            python3 -c 'import json, os, pathlib; pathlib.Path(".codesnap/runtime-config.json").write_text(json.dumps({"print_eggs": False, "snapshot_config": {"theme": os.environ["THEME"], "themes_folders": [os.environ["THEMES_FOLDER"]], "background": os.environ.get("BACKGROUND") or "#00000000"}}), encoding="utf-8")'
             config_args+=(--config .codesnap/runtime-config.json)
           fi
           codesnap \
@@ -161,6 +155,7 @@ PY
             --title "${{ steps.parse.outputs.title }}" \
             --file-path "${{ steps.parse.outputs.title }}" \
             "${background_args[@]}" \
+            "${margin_args[@]}" \
             "${code_theme_args[@]}" \
             --disable-watermark \
             --silent

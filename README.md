@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I'm+Sergei!;Nice+to+meet+you!&center=true&size=30">
+
+![Hello](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I'm+Sergei!;Nice+to+meet+you!&center=true&size=30)
+
 </h1>
 
 <div align="center">
@@ -21,6 +23,8 @@ title: github-profile.yaml
 background: "#00000000"
 codeTheme: github-dark-default
 themesFolder: assets/codesnap
+marginX: 10
+marginY: 10
 code: |
     apiVersion: github.io/v1
     kind: GithubProfile
@@ -50,8 +54,8 @@ code: |
         - Building AI Agents
 -->
 
-<div align="center" style="overflow: hidden">
-    <img src="assets/github-profile.png" height="800" style="margin: -60px 0px; object-position: center;object-fit: cover">
+<div align="center">
+    <img src="assets/github-profile.png" height="600">
 </div>
 
 ## 📊 Stats
