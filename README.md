@@ -51,7 +51,7 @@ code: |
 -->
 
 <div align="center">
-    <img src="assets/github-profile.png" height="600">
+    <img src="assets/github-profile.png" height="800">
 </div>
 
 ## 📊 Stats
