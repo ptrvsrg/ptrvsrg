@@ -2,6 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I'm+Sergei!;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
+<div align="center">
+
+![Socials](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fptrvsrg)
+![Socials](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&ogoColor=white&link=https://linkedin.com/in/ptrvsrg)
+![Socials](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F20197865)
+![Socials](https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white&link=https%3A%2F%2Fhabr.com%2Fru%2Fusers%2Fptrvsrgk)
+![Socials](https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto%3As.petrov1%40g.nsu.ru)
+    
+</div>
+
 ## 👩‍💻 About Me
 
 <!--CODESNAP
@@ -41,7 +51,7 @@ code: |
 -->
 
 <div align="center">
-    <img src="/assets/github-profile.png" height="600">
+    <img src="assets/github-profile.png" height="600">
 </div>
 
 ## 📊 Stats
@@ -53,21 +63,3 @@ code: |
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ptrvsrg&theme=transparent)
 
 </div>
-
-## 📫 Socials
-
-<a href="https://linkedin.com/in/ptrvsrg">
-    <img src="/assets/linkedin.png" height="40">
-</a>
-<a href="https://t.me/ptrvsrg">
-    <img src="/assets/telegram.png" height="40">
-</a>
-<a href="https://vk.com/ptrvsrg">
-    <img src="/assets/vk.png" height="40">
-</a>
-<a href="https://stackoverflow.com/users/20197865">
-    <img src="/assets/stack-overflow.png" height="40">
-</a>
-<a href="mailto:s.petrov1@g.nsu.ru">
-    <img src="/assets/gmail.png" height="40">
-</a>
