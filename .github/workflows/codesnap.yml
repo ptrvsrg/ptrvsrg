@@ -1,0 +1,139 @@
+name: Generate CodeSnap Asset
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - README.md
+      - .github/workflows/codesnap.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: codesnap-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  codesnap:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache codesnap-cli
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin/codesnap
+            ~/.cargo/.crates2.json
+            ~/.cargo/.crates.toml
+            ~/.cargo/registry
+            ~/.cargo/git
+          key: ${{ runner.os }}-cargo-codesnap-cli-v1
+
+      - name: Install codesnap-cli
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! command -v codesnap >/dev/null 2>&1; then
+            cargo install --locked codesnap-cli
+          fi
+
+      - name: Parse CODESNAP block from README
+        id: parse
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          readme = Path("README.md").read_text(encoding="utf-8")
+          match = re.search(r"<!--CODESNAP\n(.*?)\n-->", readme, re.S)
+          if not match:
+              raise SystemExit("CODESNAP block not found in README.md")
+
+          block = match.group(1).splitlines()
+          metadata = {}
+          code_lines = []
+          in_code = False
+
+          for line in block:
+              if in_code:
+                  if line.startswith("    "):
+                      code_lines.append(line[4:])
+                  elif line == "":
+                      code_lines.append("")
+                  else:
+                      raise SystemExit(f"Unexpected indentation in code block: {line!r}")
+                  continue
+
+              if line == "code: |":
+                  in_code = True
+                  continue
+
+              if ": " not in line:
+                  raise SystemExit(f"Invalid metadata line: {line!r}")
+
+              key, value = line.split(": ", 1)
+              metadata[key.strip()] = value.strip()
+
+          for required_key in ("output", "type", "title"):
+              if not metadata.get(required_key):
+                  raise SystemExit(f"Missing required field: {required_key}")
+
+          if not code_lines:
+              raise SystemExit("CODESNAP code block is empty")
+
+          source_dir = Path(".codesnap")
+          source_dir.mkdir(exist_ok=True)
+          source_file = source_dir / metadata["title"]
+          source_file.write_text("\n".join(code_lines).rstrip() + "\n", encoding="utf-8")
+
+          with Path(os.environ["GITHUB_OUTPUT"]).open("a", encoding="utf-8") as output:
+              output.write(f"output={metadata['output']}\n")
+              output.write(f"type={metadata['type']}\n")
+              output.write(f"title={metadata['title']}\n")
+              output.write(f"source_file={source_file.as_posix()}\n")
+          PY
+
+      - name: Generate snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$(dirname "${{ steps.parse.outputs.output }}")"
+          codesnap \
+            --from-file "${{ steps.parse.outputs.source_file }}" \
+            --output "${{ steps.parse.outputs.output }}" \
+            --type "${{ steps.parse.outputs.type }}" \
+            --title "${{ steps.parse.outputs.title }}" \
+            --file-path "${{ steps.parse.outputs.title }}" \
+            --disable-watermark \
+            --silent
+
+      - name: Commit and push generated asset
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -z "$(git status --porcelain -- "${{ steps.parse.outputs.output }}")" ]]; then
+            echo "No generated changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${{ steps.parse.outputs.output }}"
+          git commit -m "chore: update CodeSnap asset [skip ci]"
+          git push origin HEAD:master
