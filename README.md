@@ -8,6 +8,9 @@
 output: assets/github-profile.png
 type: image
 title: github-profile.yaml
+background: "#00000000"
+codeTheme: github-dark-default
+themesFolder: assets/codesnap
 code: |
     apiVersion: github.io/v1
     kind: GithubProfile

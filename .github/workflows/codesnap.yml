@@ -59,6 +59,12 @@ jobs:
           import re
           from pathlib import Path
 
+          def normalize_value(value: str) -> str:
+              value = value.strip()
+              if len(value) >= 2 and value[0] == value[-1] and value[0] in ("'", '"'):
+                  return value[1:-1]
+              return value
+
           readme = Path("README.md").read_text(encoding="utf-8")
           match = re.search(r"<!--CODESNAP\n(.*?)\n-->", readme, re.S)
           if not match:
@@ -87,7 +93,7 @@ jobs:
                   raise SystemExit(f"Invalid metadata line: {line!r}")
 
               key, value = line.split(": ", 1)
-              metadata[key.strip()] = value.strip()
+              metadata[key.strip()] = normalize_value(value)
 
           for required_key in ("output", "type", "title"):
               if not metadata.get(required_key):
@@ -106,6 +112,9 @@ jobs:
               output.write(f"type={metadata['type']}\n")
               output.write(f"title={metadata['title']}\n")
               output.write(f"source_file={source_file.as_posix()}\n")
+              output.write(f"background={metadata.get('background', '')}\n")
+              output.write(f"code_theme={metadata.get('codeTheme', '')}\n")
+              output.write(f"themes_folder={metadata.get('themesFolder', '')}\n")
           PY
 
       - name: Generate snapshot
@@ -113,12 +122,46 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p "$(dirname "${{ steps.parse.outputs.output }}")"
+          config_args=()
+          background_args=()
+          if [[ -n "${{ steps.parse.outputs.background }}" && -z "${{ steps.parse.outputs.themes_folder }}" ]]; then
+            background_args+=(--background "${{ steps.parse.outputs.background }}")
+          fi
+          code_theme_args=()
+          if [[ -n "${{ steps.parse.outputs.code_theme }}" && -z "${{ steps.parse.outputs.themes_folder }}" ]]; then
+            code_theme_args+=(--code-theme "${{ steps.parse.outputs.code_theme }}")
+          fi
+          if [[ -n "${{ steps.parse.outputs.code_theme }}" && -n "${{ steps.parse.outputs.themes_folder }}" ]]; then
+            THEME="${{ steps.parse.outputs.code_theme }}" \
+            THEMES_FOLDER="${{ steps.parse.outputs.themes_folder }}" \
+            BACKGROUND="${{ steps.parse.outputs.background }}" \
+            python3 <<'PY'
+import json
+import os
+from pathlib import Path
+
+config = {
+    "print_eggs": False,
+    "snapshot_config": {
+        "theme": os.environ["THEME"],
+        "themes_folders": [os.environ["THEMES_FOLDER"]],
+        "background": os.environ.get("BACKGROUND") or "#00000000",
+    },
+}
+
+Path(".codesnap/runtime-config.json").write_text(json.dumps(config), encoding="utf-8")
+PY
+            config_args+=(--config .codesnap/runtime-config.json)
+          fi
           codesnap \
+            "${config_args[@]}" \
             --from-file "${{ steps.parse.outputs.source_file }}" \
             --output "${{ steps.parse.outputs.output }}" \
             --type "${{ steps.parse.outputs.type }}" \
             --title "${{ steps.parse.outputs.title }}" \
             --file-path "${{ steps.parse.outputs.title }}" \
+            "${background_args[@]}" \
+            "${code_theme_args[@]}" \
             --disable-watermark \
             --silent
 
