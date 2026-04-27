@@ -50,16 +50,20 @@ code: |
         - Building AI Agents
 -->
 
-<div align="center">
-    <img src="assets/github-profile.png" height="800">
+<div align="center" style="overflow: hidden">
+    <img src="assets/github-profile.png" height="800" style="margin: -60px 0px; object-position: center;object-fit: cover">
 </div>
 
 ## 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ptrvsrg&show_icons=true&theme=transparent&show_icons=true&custom_title=GitHub%20Stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvsrg&layout=donut&theme=transparent&size_weight=0.25&count_weight=0.75)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ptrvsrg&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptrvsrg&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptrvsrg&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptrvsrg&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptrvsrg&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptrvsrg&theme=github_dark&utcOffset=7)
 
 </div>
