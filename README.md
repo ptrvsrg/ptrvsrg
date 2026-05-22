@@ -6,11 +6,11 @@
 
 <div align="center">
 
-![Socials](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fptrvsrg)
-![Socials](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&ogoColor=white&link=https://linkedin.com/in/ptrvsrg)
-![Socials](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F20197865)
-![Socials](https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white&link=https%3A%2F%2Fhabr.com%2Fru%2Fusers%2Fptrvsrgk)
-![Socials](https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto%3As.petrov1%40g.nsu.ru)
+[![Socials](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fptrvsrg)](https://t.me/ptrvsrg)
+[![Socials](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&ogoColor=white&link=https://linkedin.com/in/ptrvsrg)](https://linkedin.com/in/ptrvsrg)
+[![Socials](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F20197865)](https://stackoverflow.com/users/20197865)
+[![Socials](https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white&link=https%3A%2F%2Fhabr.com%2Fru%2Fusers%2Fptrvsrgk)](https://habr.com/ru/users/ptrvsrgk)
+[![Socials](https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto%3As.petrov1%40g.nsu.ru)](mailto:s.petrov1@g.nsu.ru)
     
 </div>
 
@@ -39,7 +39,7 @@ code: |
         - Master's in Informatics and Computer Engineering
       skills:
         languages: [Go, Python, TypeScript, Java]
-        cloud: [Kubernetes, OpenStack, VMware]
+        cloud: [Kubernetes, VMware. OpenStack, Proxmox]
         devops: [Docker, Linux, Terraform, Vagrant, CI/CD]
         backend: [Microservices, REST, gRPC, GraphQL, MCP]
         data: [PostgreSQL, Redis, MongoDB, Apache Kafka, RabbitMQ]
