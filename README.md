@@ -39,7 +39,7 @@ code: |
         - Master's in Informatics and Computer Engineering
       skills:
         languages: [Go, Python, TypeScript, Java]
-        cloud: [Kubernetes, VMware. OpenStack, Proxmox]
+        cloud: [Kubernetes, VMware, OpenStack, Proxmox]
         devops: [Docker, Linux, Terraform, Vagrant, CI/CD]
         backend: [Microservices, REST, gRPC, GraphQL, MCP]
         data: [PostgreSQL, Redis, MongoDB, Apache Kafka, RabbitMQ]
