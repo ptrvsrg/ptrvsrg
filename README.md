@@ -11,63 +11,59 @@
 [![Socials](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F20197865)](https://stackoverflow.com/users/20197865)
 [![Socials](https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white&link=https%3A%2F%2Fhabr.com%2Fru%2Fusers%2Fptrvsrgk)](https://habr.com/ru/users/ptrvsrgk)
 [![Socials](https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto%3As.petrov1%40g.nsu.ru)](mailto:s.petrov1@g.nsu.ru)
-    
-</div>
-
-## 👩‍💻 About Me
-
-<!--CODESNAP
-output: assets/github-profile.png
-type: image
-title: github-profile.yaml
-background: "#00000000"
-codeTheme: github-dark-default
-themesFolder: assets/codesnap
-marginX: 10
-marginY: 10
-code: |
-    apiVersion: github.io/v1
-    kind: GithubProfile
-    metadata:
-      name: petrov-sergei
-    spec:
-      fullName: Petrov Sergei
-      job: Cloud Software Developer
-      location: Novosibirsk, Russia
-      educations:
-        - Bachelor's in Informatics and Computer Engineering
-        - Master's in Informatics and Computer Engineering
-      skills:
-        languages: [Go, Python, TypeScript, Java]
-        cloud: [Kubernetes, VMware, OpenStack, Proxmox]
-        devops: [Docker, Linux, Terraform, Vagrant, CI/CD]
-        backend: [Microservices, REST, gRPC, GraphQL, MCP]
-        data: [PostgreSQL, Redis, MongoDB, Apache Kafka, RabbitMQ]
-        frontend: [React, Vue, Styled Components, Storybook]
-        ml: [PyTorch, TensorFlow, scikit-learn, Keras]
-        observability: [Prometheus, Grafana, Kibana, OpenTelemetry]
-      hobbies:
-        - Reading technical articles
-        - Basketball and football (on PlayStation)
-      currentlyLearning:
-        - Rust programming
-        - Building AI Agents
--->
-
-<div align="center">
-    <img src="assets/github-profile.png" height="600">
-</div>
-
-## 📊 Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptrvsrg&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptrvsrg&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptrvsrg&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptrvsrg&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptrvsrg&theme=github_dark&utcOffset=7)
 
 </div>
+
+## :man_technologist: About Me
+
+```rust
+apiVersion: "github.io/v1"
+kind: "GithubProfile"
+metadata:
+  name: "petrov-sergei"
+spec:
+  fullName: "Petrov Sergei"
+  job: "Cloud Software Developer"
+  location: "Novosibirsk, Russia"
+  educations:
+    - "Bachelor's in Informatics and Computer Engineering"
+    - "Master's in Informatics and Computer Engineering"
+  skills:
+    languages: ["Go", "Python", "TypeScript", "Java"]
+    cloud: ["Kubernetes", "VMware", "OpenStack", "Proxmox"]
+    devops: ["Docker", "Linux", "Terraform", "Vagrant", "CI/CD"]
+    backend: ["Microservices", "REST", "gRPC", "GraphQL", "MCP"]
+    data: ["PostgreSQL", "Redis", "MongoDB", "Apache Kafka", "RabbitMQ"]
+    frontend: ["React", "Vue", "Styled Components", "Storybook"]
+    ml: ["PyTorch", "TensorFlow", "scikit-learn", "Keras"]
+    observability: ["Prometheus", "Grafana", "Kibana", "OpenTelemetry"]
+  hobbies:
+    - "Reading technical articles"
+    - "Basketball and football (on PlayStation)"
+  learning:
+    - "Rust programming"
+    - "Building AI Agents"
+```
+
+## :bar_chart: Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/metrics-general.svg" alt="General" />
+      </td>
+      <td align="center">
+        <img src="./assets/metrics-languages.svg" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+## :trophy: Achievements
+
+![Achievements](./assets/metrics-achievements.svg)
+
+## :newspaper: Recent Activity
+
+![Recent activity](./assets/metrics-activity.svg)
