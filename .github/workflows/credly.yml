@@ -31,4 +31,4 @@ jobs:
         env:
           INPUT_CREDLY_USERNAME: ptrvsrg
           INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: go run ./cmd/credly-badges
+        run: go run ./cmd/credly-badges-v2
