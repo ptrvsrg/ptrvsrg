@@ -1,21 +1,27 @@
-name: Metrics
+name: Update Metrics
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 12 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   github-readme-stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - run: |
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate README stats images
+        run: |
           curl "https://github-readme-stats-hui5.vercel.app/api?username=ptrvsrg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117" > assets/metrics-general.svg
           curl "https://github-readme-stats-hui5.vercel.app/api/top-langs/?username=ptrvsrg&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&size_weight=0.3&count_weight=0.7&langs_count=10&layout=compact" > assets/metrics-languages.svg
-      - uses: EndBug/add-and-commit@v9
+
+      - name: Add and commit
+        uses: EndBug/add-and-commit@v9
         with:
           add: ./*.svg
           message: Update github-readme-stats
@@ -23,8 +29,6 @@ jobs:
 
   achievements:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Generate achievements
         uses: gh-metrics/metrics@master
@@ -40,12 +44,12 @@ jobs:
 
   recent-activity:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/checkout@v4
+      - name: Checkout metrics activity plugin
+        uses: actions/checkout@v4
         with:
           repository: gh-metrics/metrics
           ref: master

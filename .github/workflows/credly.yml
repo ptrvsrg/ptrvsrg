@@ -1,0 +1,21 @@
+name: Update Credly Badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  credly-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Credly badges
+        uses: mikejoh/credly-badges@main
+        with:
+          CREDLY_USERNAME: ptrvsrg
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update Credly badges"

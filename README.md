@@ -64,6 +64,9 @@ spec:
 
 ![Achievements](./assets/metrics-achievements.svg)
 
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
+
 ## :newspaper: Recent Activity
 
 ![Recent activity](./assets/metrics-activity.svg)
