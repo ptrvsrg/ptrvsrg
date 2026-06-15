@@ -65,6 +65,7 @@ spec:
 ![Achievements](./assets/metrics-achievements.svg)
 
 <!--START_BADGES:badges-->
+ [![LFS158: Introduction to Kubernetes](https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)
 <!--END_BADGES:badges-->
 
 ## :newspaper: Recent Activity
