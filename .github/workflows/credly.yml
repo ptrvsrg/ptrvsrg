@@ -13,9 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Update Credly badges
-        uses: mikejoh/credly-badges@main
+      - name: Checkout credly-badges
+        uses: actions/checkout@v4
         with:
-          CREDLY_USERNAME: ptrvsrg
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Update Credly badges"
+          repository: mikejoh/credly-badges
+          ref: main
+          path: credly-badges
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.24"
+          cache-dependency-path: credly-badges/go.sum
+
+      - name: Update Credly badges
+        working-directory: credly-badges
+        env:
+          INPUT_CREDLY_USERNAME: ptrvsrg
+          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: go run ./cmd/credly-badges
