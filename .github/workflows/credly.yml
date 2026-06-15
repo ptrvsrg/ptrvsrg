@@ -13,22 +13,79 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout credly-badges
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          repository: mikejoh/credly-badges
-          ref: main
-          path: credly-badges
-
-      - name: Set up Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: "1.24"
-          cache-dependency-path: credly-badges/go.sum
 
       - name: Update Credly badges
-        working-directory: credly-badges
         env:
-          INPUT_CREDLY_USERNAME: ptrvsrg
-          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: go run ./cmd/credly-badges-v2
+          CREDLY_USERNAME: ptrvsrg
+        run: |
+          python3 <<'PY'
+          import json
+          import os
+          import subprocess
+          from pathlib import Path
+
+          username = os.environ["CREDLY_USERNAME"]
+          readme_path = Path("README.md")
+          start = "<!--START_BADGES:badges-->"
+          end = "<!--END_BADGES:badges-->"
+          urls = [
+              f"https://www.credly.com/users/{username}/badges.json",
+              f"https://www.credly.com/users/{username}/badges?format=json",
+          ]
+
+          data = None
+          for url in urls:
+              result = subprocess.run(
+                  [
+                      "curl",
+                      "-fsSL",
+                      "-H",
+                      "Accept: application/json",
+                      "-A",
+                      "Mozilla/5.0 (compatible; github-actions)",
+                      url,
+                  ],
+                  capture_output=True,
+                  text=True,
+              )
+              if result.returncode == 0 and result.stdout.strip().startswith("{"):
+                  data = json.loads(result.stdout)
+                  break
+
+          if data is None:
+              raise SystemExit(f"failed to fetch badges for username {username}")
+
+          badges = []
+          for item in data.get("data", []):
+              template = item.get("badge_template", {})
+              image_url = template.get("image_url")
+              name = template.get("name")
+              if image_url and name:
+                  badges.append(f" [![{name}]({image_url})]({image_url})")
+
+          if not badges:
+              raise SystemExit(f"no badges found for username {username}")
+
+          readme = readme_path.read_text()
+          if start not in readme or end not in readme:
+              raise SystemExit("badge markers not found in README.md")
+
+          start_idx = readme.index(start)
+          end_idx = readme.index(end) + len(end)
+          new_section = start + "\n" + "\n".join(badges) + "\n" + end
+          updated = readme[:start_idx] + new_section + readme[end_idx:]
+
+          if updated == readme:
+              print("no changes detected")
+          else:
+              readme_path.write_text(updated)
+              print(f"updated {len(badges)} badge(s)")
+          PY
+
+      - name: Add and commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: Update Credly badges
+          default_author: github_actions
