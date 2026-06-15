@@ -21,6 +21,7 @@ jobs:
           CREDLY_USERNAME: ptrvsrg
         run: |
           python3 <<'PY'
+          import html
           import json
           import os
           import subprocess
@@ -63,7 +64,10 @@ jobs:
               image_url = template.get("image_url")
               name = template.get("name")
               if image_url and name:
-                  badges.append(f" [![{name}]({image_url})]({image_url})")
+                  alt = html.escape(name)
+                  badges.append(
+                      f'<a href="{image_url}"><img src="{image_url}" alt="{alt}" height="100" /></a>'
+                  )
 
           if not badges:
               raise SystemExit(f"no badges found for username {username}")
