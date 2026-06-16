@@ -24,11 +24,14 @@ jobs:
           import html
           import json
           import os
+          import re
           import subprocess
+          from urllib.parse import urlparse
           from pathlib import Path
 
           username = os.environ["CREDLY_USERNAME"]
           readme_path = Path("README.md")
+          badges_dir = Path("assets/badges")
           start = "<!--START_BADGES:badges-->"
           end = "<!--END_BADGES:badges-->"
           urls = [
@@ -58,15 +61,35 @@ jobs:
           if data is None:
               raise SystemExit(f"failed to fetch badges for username {username}")
 
+          badges_dir.mkdir(parents=True, exist_ok=True)
           badges = []
           for item in data.get("data", []):
               template = item.get("badge_template", {})
               image_url = template.get("image_url")
+              badge_url = template.get("url")
               name = template.get("name")
-              if image_url and name:
+              if image_url and badge_url and name:
+                  slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+                  identifier = str(item.get("id") or template.get("id") or slug)
+                  extension = Path(urlparse(image_url).path).suffix or ".png"
+                  image_path = badges_dir / f"{slug}-{identifier}{extension}"
+                  subprocess.run(
+                      [
+                          "curl",
+                          "-fsSL",
+                          "-A",
+                          "Mozilla/5.0 (compatible; github-actions)",
+                          image_url,
+                          "-o",
+                          str(image_path),
+                      ],
+                      check=True,
+                  )
                   alt = html.escape(name)
+                  href = html.escape(badge_url, quote=True)
+                  src = html.escape(f"./{image_path.as_posix()}", quote=True)
                   badges.append(
-                      f'<a href="{image_url}"><img src="{image_url}" alt="{alt}" height="100" /></a>'
+                      f'<a href="{href}"><img src="{src}" alt="{alt}" height="100" /></a>'
                   )
 
           if not badges:
@@ -91,5 +114,6 @@ jobs:
       - name: Add and commit
         uses: EndBug/add-and-commit@v9
         with:
+          add: README.md assets/badges
           message: Update Credly badges
           default_author: github_actions
