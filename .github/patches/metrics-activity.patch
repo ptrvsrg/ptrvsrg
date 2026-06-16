@@ -1,5 +1,5 @@
 diff --git a/source/plugins/activity/index.mjs b/source/plugins/activity/index.mjs
-index 4df26a3c..46a191e9 100644
+index 4df26a3c..6af609e8 100644
 --- a/source/plugins/activity/index.mjs
 +++ b/source/plugins/activity/index.mjs
 @@ -29,11 +29,11 @@ export default async function({login, data, rest, q, account, imports}, {enabled
@@ -26,52 +26,135 @@ index 4df26a3c..46a191e9 100644
                const {comment: {user: {login: user}, commit_id: sha, body: content}} = payload
                if (!imports.filters.text(user, ignored))
                  return null
-@@ -109,6 +111,8 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+@@ -109,7 +111,23 @@ export default async function({login, data, rest, q, account, imports}, {enabled
              case "IssueCommentEvent": {
                if (!["created"].includes(payload.action))
                  return null
-+              if (!payload.issue?.user)
+-              const {issue: {user: {login: user}, title, number}, comment: {body: content, performed_via_github_app: mobile}} = payload
++              let {issue} = payload
++              if (!issue?.user) {
++                const [owner, repoName] = repo.split("/")
++                const issueNumber = issue?.number ?? payload.comment?.issue_url?.split("/").pop()
++                if (!issueNumber)
++                  return null
++                try {
++                  issue = (await rest.issues.get({owner, repo: repoName, issue_number: issueNumber})).data
++                }
++                catch {
++                  return null
++                }
++              }
++              if (!issue?.user)
 +                return null
-               const {issue: {user: {login: user}, title, number}, comment: {body: content, performed_via_github_app: mobile}} = payload
++              const {user: {login: user}, title, number} = issue
++              const {comment: {body: content, performed_via_github_app: mobile}} = payload
                if (!imports.filters.text(user, ignored))
                  return null
-@@ -118,6 +122,8 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+               return {type: customType, on: "issue", actor, timestamp, repo, content: await imports.markdown(content, {mode: markdown, codelines}), user, mobile, number, title}
+@@ -118,7 +136,23 @@ export default async function({login, data, rest, q, account, imports}, {enabled
              case "IssuesEvent": {
                if (!["opened", "closed", "reopened"].includes(payload.action))
                  return null
-+              if (!payload.issue?.user)
+-              const {action, issue: {user: {login: user}, title, number, body: content}} = payload
++              let {issue} = payload
++              if (!issue?.user) {
++                const [owner, repoName] = repo.split("/")
++                const issueNumber = issue?.number ?? payload.number
++                if (!issueNumber)
++                  return null
++                try {
++                  issue = (await rest.issues.get({owner, repo: repoName, issue_number: issueNumber})).data
++                }
++                catch {
++                  return null
++                }
++              }
++              if (!issue?.user)
 +                return null
-               const {action, issue: {user: {login: user}, title, number, body: content}} = payload
++              const {action} = payload
++              const {user: {login: user}, title, number, body: content} = issue
                if (!imports.filters.text(user, ignored))
                  return null
-@@ -140,6 +146,8 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+               return {type: customType, actor, timestamp, repo, action, user, number, title, content: await imports.markdown(content, {mode: markdown, codelines})}
+@@ -138,16 +172,48 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+             }
+             //Pull requests events
              case "PullRequestEvent": {
-               if (!["opened", "closed"].includes(payload.action))
-                 return null
-+              if (!payload.pull_request?.user)
+-              if (!["opened", "closed"].includes(payload.action))
++              if (!["opened", "closed", "merged"].includes(payload.action))
 +                return null
-               const {action, pull_request: {user: {login: user}, title, number, body: content, additions: added, deletions: deleted, changed_files: changed, merged}} = payload
++              let pullRequest = payload.pull_request
++              if (!pullRequest?.user) {
++                const [owner, repoName] = repo.split("/")
++                const pullNumber = payload.number ?? pullRequest?.number
++                if (!pullNumber)
++                  return null
++                try {
++                  pullRequest = (await rest.pulls.get({owner, repo: repoName, pull_number: pullNumber})).data
++                }
++                catch {
++                  return null
++                }
++              }
++              if (!pullRequest?.user)
+                 return null
+-              const {action, pull_request: {user: {login: user}, title, number, body: content, additions: added, deletions: deleted, changed_files: changed, merged}} = payload
++              const {action} = payload
++              const {user: {login: user}, title, number, body: content, additions: added, deletions: deleted, changed_files: changed, merged} = pullRequest
                if (!imports.filters.text(user, ignored))
                  return null
-@@ -147,6 +155,8 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+-              return {type: customType, actor, timestamp, repo, action: (action === "closed") && (merged) ? "merged" : action, user, title, number, content: await imports.markdown(content, {mode: markdown, codelines}), lines: {added, deleted}, files: {changed}}
++              return {type: customType, actor, timestamp, repo, action: ((action === "closed") && (merged)) || (action === "merged") ? "merged" : action, user, title, number, content: await imports.markdown(content, {mode: markdown, codelines}), lines: {added, deleted}, files: {changed}}
              }
              //Reviewed a pull request
              case "PullRequestReviewEvent": {
-+              if (!payload.pull_request?.user)
+-              const {review: {state: review}, pull_request: {user: {login: user}, number, title}} = payload
++              let pullRequest = payload.pull_request
++              if (!pullRequest?.user) {
++                const [owner, repoName] = repo.split("/")
++                const pullNumber = payload.number ?? pullRequest?.number
++                if (!pullNumber)
++                  return null
++                try {
++                  pullRequest = (await rest.pulls.get({owner, repo: repoName, pull_number: pullNumber})).data
++                }
++                catch {
++                  return null
++                }
++              }
++              if (!pullRequest?.user)
 +                return null
-               const {review: {state: review}, pull_request: {user: {login: user}, number, title}} = payload
++              const {review: {state: review}} = payload
++              const {user: {login: user}, number, title} = pullRequest
                if (!imports.filters.text(user, ignored))
                  return null
-@@ -156,6 +166,8 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+               return {type: customType, actor, timestamp, repo, review, user, number, title}
+@@ -156,7 +222,23 @@ export default async function({login, data, rest, q, account, imports}, {enabled
              case "PullRequestReviewCommentEvent": {
                if (!["created"].includes(payload.action))
                  return null
-+              if (!payload.pull_request?.user)
+-              const {pull_request: {user: {login: user}, title, number}, comment: {body: content, performed_via_github_app: mobile}} = payload
++              let pullRequest = payload.pull_request
++              if (!pullRequest?.user) {
++                const [owner, repoName] = repo.split("/")
++                const pullNumber = payload.number ?? pullRequest?.number
++                if (!pullNumber)
++                  return null
++                try {
++                  pullRequest = (await rest.pulls.get({owner, repo: repoName, pull_number: pullNumber})).data
++                }
++                catch {
++                  return null
++                }
++              }
++              if (!pullRequest?.user)
 +                return null
-               const {pull_request: {user: {login: user}, title, number}, comment: {body: content, performed_via_github_app: mobile}} = payload
++              const {user: {login: user}, title, number} = pullRequest
++              const {comment: {body: content, performed_via_github_app: mobile}} = payload
                if (!imports.filters.text(user, ignored))
                  return null
-@@ -165,16 +177,24 @@ export default async function({login, data, rest, q, account, imports}, {enabled
+               return {type: customType, on: "pr", actor, timestamp, repo, content: await imports.markdown(content, {mode: markdown, codelines}), user, mobile, number, title}
+@@ -165,16 +247,26 @@ export default async function({login, data, rest, q, account, imports}, {enabled
              case "PushEvent": {
                let {size, ref, head, before} = payload
                const [owner, repoName] = repo.split("/")
@@ -84,9 +167,11 @@ index 4df26a3c..46a191e9 100644
 +                res = await rest.repos.compareCommitsWithBasehead({owner, repo: repoName, basehead: `${before}...${head}`})
 +              }
 +              catch {
-+                return null
++                res = await rest.repos.getCommit({owner, repo: repoName, ref: head})
 +              }
                let {commits} = res.data
++              if (!commits)
++                commits = [res.data]
  
 -              commits = commits.filter(({author: {email}}) => imports.filters.text(email, ignored))
 +              commits = commits.filter(commit => commit?.commit?.author?.email && imports.filters.text(commit.commit.author.email, ignored))

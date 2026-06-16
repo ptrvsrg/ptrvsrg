@@ -71,4 +71,4 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 0
-          plugin_activity_filter: release, issue, pr, review, wiki, fork, star, member, public
+          plugin_activity_filter: comment, release, push, issue, pr, review, wiki, fork, star, member, public
