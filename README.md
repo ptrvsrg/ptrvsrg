@@ -65,7 +65,7 @@ spec:
 ![Achievements](./assets/metrics-achievements.svg)
 
 <!--START_BADGES:badges-->
-<a href="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob"><img src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" height="100" /></a>
+<a href="https://www.credly.com/org/the-linux-foundation/badge/lfs158-introduction-to-kubernetes"><img src="./assets/badges/lfs158-introduction-to-kubernetes-d3fdeef6-4e34-429e-867b-22c599063376.png" alt="LFS158: Introduction to Kubernetes" height="100" /></a>
 <!--END_BADGES:badges-->
 
 ## :newspaper: Recent Activity
