@@ -93,4 +93,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+2. ❌ Labeled PR [#20574](https://github.com/deckhouse/deckhouse/pull/20574) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+4. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+5. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+6. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+7. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+8. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+9. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+10. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
 <!--END_SECTION:activity-->
