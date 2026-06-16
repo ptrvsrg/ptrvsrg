@@ -1,0 +1,37 @@
+name: Generate achievements
+description: Generate GitHub achievements as separate SVG files and update README.
+
+inputs:
+  token:
+    description: GitHub token used for GraphQL and REST API calls.
+    required: true
+  output-dir:
+    description: Directory where achievement SVG files are written.
+    default: assets/achievements
+    required: false
+  readme-path:
+    description: README file to update.
+    default: README.md
+    required: false
+  threshold:
+    description: Minimum rank to display. Defaults to all unlocked achievements; use X to include locked achievements.
+    default: $
+    required: false
+  display:
+    description: Display style. Use compact for title/value only or detailed for title, description, and progress.
+    default: detailed
+    required: false
+
+runs:
+  using: composite
+  steps:
+    - name: Generate achievement SVG files
+      shell: bash
+      env:
+        GH_USERNAME: ${{ github.repository_owner }}
+        GH_TOKEN: ${{ inputs.token }}
+        ACHIEVEMENTS_OUTPUT_DIR: ${{ inputs.output-dir }}
+        ACHIEVEMENTS_README: ${{ inputs.readme-path }}
+        ACHIEVEMENTS_THRESHOLD: ${{ inputs.threshold }}
+        ACHIEVEMENTS_DISPLAY: ${{ inputs.display }}
+      run: python3 "${GITHUB_ACTION_PATH}/generate.py"

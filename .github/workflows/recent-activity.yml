@@ -1,0 +1,25 @@
+name: Update Recent Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  recent-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update recent activity
+        uses: manueldevjour/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          GH_USERNAME: ptrvsrg
+          MAX_LINES: 10
+          COMMIT_MSG: Update recent activity

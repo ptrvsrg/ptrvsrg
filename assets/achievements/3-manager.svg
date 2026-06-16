@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="96" viewBox="0 0 88 96" role="img" aria-label="Manager">
+  <style>svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;color:#777}.gauge{stroke-linecap:round;fill:none}.gauge-base,.gauge-arc{stroke:currentColor;stroke-width:6}.gauge-base{stroke-opacity:.2}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58A6FF}.achievement .gauge.info{color:#58A6FF}.achievement .value{background-color:#58A6FF26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#B0B0B0}.achievement.x .value{background-color:#B0B0B026}.achievement.b .title{color:#9D8FFF}.achievement.b .gauge.info{color:#9E91FF}.achievement.b .value{background-color:#9E91FF26}.achievement.a .title{color:#D79533}.achievement.a .gauge.info{color:#E7BD69}.achievement.a .value{background-color:#E7BD6926}.achievement.s .title{color:#EB355E}.achievement.s .gauge.info{color:#EB355E}.achievement.s .value{background-color:#EB355E26}.achievement.secret .title{color:#FF76CD}.achievement.secret .gauge.info{color:#FF79D1}.achievement.secret .value{background-color:#FF79D126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .text,.achievements.compact .achievement .gh{display:none}</style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <section class="achievements compact">
+    <div class="achievement b">
+      <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+          <defs>
+            <mask id="mask">
+              <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"></circle>
+            </mask>
+          </defs>
+          <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+            <circle class="gauge-base" r="25" cx="28" cy="28"></circle>
+            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"></circle>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-width="2" fill="none" fill-rule="evenodd"><path d="M29 16V8.867C29 7.705 29.627 7 30.692 7h18.616C50.373 7 51 7.705 51 8.867v38.266C51 48.295 50.373 49 49.308 49H30.692C29.627 49 29 48.295 29 47.133V39m-4-23V9c0-1.253-.737-2-2-2H7c-1.263 0-2 .747-2 2v34c0 1.253.737 2 2 2h16c1.263 0 2-.747 2-2v-4" stroke="#B2A8FF" stroke-linecap="round"/><path stroke="#B2A8FF" d="M51.557 12.005h-22M5 12.005h21"/><path d="M14 33V22c0-1.246.649-2 1.73-2h28.54c1.081 0 1.73.754 1.73 2v11c0 1.246-.649 2-1.73 2H15.73c-1.081 0-1.73-.754-1.73-2z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/><path d="M19 29v-3c0-.508.492-1 1-1h3c.508 0 1 .492 1 1v3c0 .508-.492 1-1 1h-3c-.508-.082-1-.492-1-1z" stroke="#7D6CFF"/><path stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round" d="M28.996 27.998h12M9.065 20.04a7.062 7.062 0 00-.023 1.728m.775 2.517c.264.495.584.954.954 1.369"/></g></svg>
+        </svg>
+      </div>
+      <div class="info">
+        <div class="title">
+          <span class="prefix">Great</span> manager
+          <div class="value-wrapper">
+            <div class="value">2</div>
+          </div>
+        </div>
+        <div class="text">Created 2 user projects</div>
+      </div>
+    </div>
+  </section>
+    </div>
+  </foreignObject>
+</svg>

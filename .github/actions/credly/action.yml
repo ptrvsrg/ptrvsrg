@@ -1,0 +1,26 @@
+name: Update Credly badges
+description: Download Credly badge images and update README badge section.
+
+inputs:
+  username:
+    description: Credly username.
+    required: true
+  readme-path:
+    description: README file to update.
+    default: README.md
+    required: false
+  output-dir:
+    description: Directory where badge images are stored.
+    default: assets/badges
+    required: false
+
+runs:
+  using: composite
+  steps:
+    - name: Update Credly badges
+      shell: bash
+      env:
+        CREDLY_USERNAME: ${{ inputs.username }}
+        CREDLY_README: ${{ inputs.readme-path }}
+        CREDLY_OUTPUT_DIR: ${{ inputs.output-dir }}
+      run: python3 "${GITHUB_ACTION_PATH}/update.py"

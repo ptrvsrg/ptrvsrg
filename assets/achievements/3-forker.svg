@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="96" viewBox="0 0 88 96" role="img" aria-label="Forker">
+  <style>svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;color:#777}.gauge{stroke-linecap:round;fill:none}.gauge-base,.gauge-arc{stroke:currentColor;stroke-width:6}.gauge-base{stroke-opacity:.2}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58A6FF}.achievement .gauge.info{color:#58A6FF}.achievement .value{background-color:#58A6FF26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#B0B0B0}.achievement.x .value{background-color:#B0B0B026}.achievement.b .title{color:#9D8FFF}.achievement.b .gauge.info{color:#9E91FF}.achievement.b .value{background-color:#9E91FF26}.achievement.a .title{color:#D79533}.achievement.a .gauge.info{color:#E7BD69}.achievement.a .value{background-color:#E7BD6926}.achievement.s .title{color:#EB355E}.achievement.s .gauge.info{color:#EB355E}.achievement.s .value{background-color:#EB355E26}.achievement.secret .title{color:#FF76CD}.achievement.secret .gauge.info{color:#FF79D1}.achievement.secret .value{background-color:#FF79D126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .text,.achievements.compact .achievement .gh{display:none}</style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <section class="achievements compact">
+    <div class="achievement b">
+      <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+          <defs>
+            <mask id="mask">
+              <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"></circle>
+            </mask>
+          </defs>
+          <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+            <circle class="gauge-base" r="25" cx="28" cy="28"></circle>
+            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"></circle>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-width="2" fill="none" fill-rule="evenodd"><path d="M37.303 21.591a5.84 5.84 0 00-1.877-1.177 6.138 6.138 0 00-4.432 0 5.822 5.822 0 00-1.879 1.177L28 22.638l-1.115-1.047c-1.086-1.018-2.559-1.59-4.094-1.59-1.536 0-3.008.572-4.094 1.59-1.086 1.02-1.696 2.4-1.696 3.84 0 1.441.61 2.823 1.696 3.841l1.115 1.046L28 38l8.189-7.682 1.115-1.046a5.422 5.422 0 001.256-1.761 5.126 5.126 0 000-4.157 5.426 5.426 0 00-1.256-1.763z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/><path d="M15.967 42.705A18.922 18.922 0 0028 47a18.92 18.92 0 0011.076-3.56m-.032-30.902A18.914 18.914 0 0028 9c-4.09 0-7.876 1.292-10.976 3.49" stroke="#B2A8FF" stroke-linecap="round"/><g transform="translate(7 10)" stroke="#7D6CFF"><path d="M6 0v7c0 2.21-1.343 3-3 3s-3-.79-3-3V0" stroke-linecap="round" stroke-linejoin="round"/><path stroke-linecap="round" d="M3 0v19.675"/><rect stroke-linejoin="round" x="1" y="20" width="4" height="16" rx="2"/></g><g transform="translate(43 10)" stroke="#7D6CFF"><path stroke-linecap="round" d="M2 15.968v3.674"/><path d="M4 15.642H0L.014 4.045A4.05 4.05 0 014.028 0L4 15.642z" stroke-linecap="round" stroke-linejoin="round"/><rect stroke-linejoin="round" y="19.968" width="4" height="16" rx="2"/></g><path d="M41.364 8.062A23.888 23.888 0 0028 4a23.89 23.89 0 00-11.95 3.182M4.75 22.021A24.045 24.045 0 004 28c0 1.723.182 3.404.527 5.024m10.195 14.971A23.888 23.888 0 0028 52c4.893 0 9.444-1.464 13.239-3.979m9-10.98A23.932 23.932 0 0052 28c0-2.792-.477-5.472-1.353-7.964" stroke="#B2A8FF" stroke-linecap="round"/></g></svg>
+        </svg>
+      </div>
+      <div class="info">
+        <div class="title">
+          <span class="prefix">Great</span> forker
+          <div class="value-wrapper">
+            <div class="value">5</div>
+          </div>
+        </div>
+        <div class="text">Forked 5 public repositories</div>
+      </div>
+    </div>
+  </section>
+    </div>
+  </foreignObject>
+</svg>

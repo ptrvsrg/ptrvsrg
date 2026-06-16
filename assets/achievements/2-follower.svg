@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="96" viewBox="0 0 88 96" role="img" aria-label="Follower">
+  <style>svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;color:#777}.gauge{stroke-linecap:round;fill:none}.gauge-base,.gauge-arc{stroke:currentColor;stroke-width:6}.gauge-base{stroke-opacity:.2}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58A6FF}.achievement .gauge.info{color:#58A6FF}.achievement .value{background-color:#58A6FF26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#B0B0B0}.achievement.x .value{background-color:#B0B0B026}.achievement.b .title{color:#9D8FFF}.achievement.b .gauge.info{color:#9E91FF}.achievement.b .value{background-color:#9E91FF26}.achievement.a .title{color:#D79533}.achievement.a .gauge.info{color:#E7BD69}.achievement.a .value{background-color:#E7BD6926}.achievement.s .title{color:#EB355E}.achievement.s .gauge.info{color:#EB355E}.achievement.s .value{background-color:#EB355E26}.achievement.secret .title{color:#FF76CD}.achievement.secret .gauge.info{color:#FF79D1}.achievement.secret .value{background-color:#FF79D126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .text,.achievements.compact .achievement .gh{display:none}</style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <section class="achievements compact">
+    <div class="achievement c">
+      <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+          <defs>
+            <mask id="mask">
+              <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"></circle>
+            </mask>
+          </defs>
+          <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+            <circle class="gauge-base" r="25" cx="28" cy="28"></circle>
+            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.577889447236181 155"></circle>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g fill="none" fill-rule="evenodd"><path d="M35 31a7 7 0 1114 0 7 7 0 01-14 0zm12-13a3 3 0 116 0 3 3 0 01-6 0zM33 49a3 3 0 116 0 3 3 0 01-6 0zM4 15a3 3 0 116 0 3 3 0 01-6 0zm37-8.5a2.5 2.5 0 115 0 2.5 2.5 0 01-5 0zM10 14l4.029-.576M19.008 26.016L21 19M29.019 34.001l5.967-1.948M36.997 46.003l2.977-8.02M46.05 24.031L48 21M28.787 18.012l7.248 8.009" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M43.62 29.004c-1.157 0-1.437.676-1.62 1.173-.19-.498-.494-1.167-1.629-1.167-.909 0-1.355.777-1.371 1.632-.022 1.145 1.309 2.365 3 3.358 1.669-.983 3-2.23 3-3.358 0-.89-.54-1.638-1.38-1.638z" fill="#2088FF"/><path stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M48.043 15.003L45 9"/><path d="M21 12a3 3 0 116 0 3 3 0 01-6 0zM27 12h3M18 12h3M21 43c-.267-1.727-1.973-3-4-3-2.08 0-3.787 1.318-4 3m4-9a3 3 0 100 6 3 3 0 000-6z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M17 30a9 9 0 110 18 9 9 0 110-18z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+        </svg>
+      </div>
+      <div class="info">
+        <div class="title">
+          <span class="prefix"></span> Follower
+          <div class="value-wrapper">
+            <div class="value">21</div>
+          </div>
+        </div>
+        <div class="text">Following 21 users</div>
+      </div>
+    </div>
+  </section>
+    </div>
+  </foreignObject>
+</svg>

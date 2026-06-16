@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="96" viewBox="0 0 88 96" role="img" aria-label="Influencer">
+  <style>svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;color:#777}.gauge{stroke-linecap:round;fill:none}.gauge-base,.gauge-arc{stroke:currentColor;stroke-width:6}.gauge-base{stroke-opacity:.2}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58A6FF}.achievement .gauge.info{color:#58A6FF}.achievement .value{background-color:#58A6FF26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#B0B0B0}.achievement.x .value{background-color:#B0B0B026}.achievement.b .title{color:#9D8FFF}.achievement.b .gauge.info{color:#9E91FF}.achievement.b .value{background-color:#9E91FF26}.achievement.a .title{color:#D79533}.achievement.a .gauge.info{color:#E7BD69}.achievement.a .value{background-color:#E7BD6926}.achievement.s .title{color:#EB355E}.achievement.s .gauge.info{color:#EB355E}.achievement.s .value{background-color:#EB355E26}.achievement.secret .title{color:#FF76CD}.achievement.secret .gauge.info{color:#FF79D1}.achievement.secret .value{background-color:#FF79D126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .text,.achievements.compact .achievement .gh{display:none}</style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <section class="achievements compact">
+    <div class="achievement c">
+      <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+          <defs>
+            <mask id="mask">
+              <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"></circle>
+            </mask>
+          </defs>
+          <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+            <circle class="gauge-base" r="25" cx="28" cy="28"></circle>
+            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.36683417085427 155"></circle>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd"><path d="M33.432 1.924A23.922 23.922 0 0024 0c-3.945 0-7.668.952-10.95 2.638m-9.86 9.398A23.89 23.89 0 000 24a23.9 23.9 0 002.274 10.21m3.45 5.347a23.992 23.992 0 0012.929 7.845m13.048-.664c4.43-1.5 8.28-4.258 11.123-7.848m3.16-5.245A23.918 23.918 0 0048 24c0-1.87-.214-3.691-.619-5.439M40.416 6.493a24.139 24.139 0 00-1.574-1.355" stroke="#79B8FF" stroke-linecap="round"/><path stroke="#79B8FF" d="M4.582 33.859l1.613-7.946"/><circle stroke="#79B8FF" cx="6.832" cy="23" r="3"/><path stroke="#2088FF" d="M17.444 39.854l4.75 3.275"/><path stroke="#79B8FF" stroke-linecap="round" d="M7.647 14.952l-.433 4.527"/><circle stroke="#2088FF" cx="15" cy="38" r="3"/><path stroke="#2088FF" d="M22.216 9.516l.455 4.342"/><path stroke="#79B8FF" stroke-linecap="round" d="M34.272 6.952l-2.828 5.25"/><path stroke="#2088FF" stroke-linecap="square" d="M11.873 7.235l6.424-.736"/><path stroke="#79B8FF" stroke-linecap="round" d="M28.811 5.445l3.718-.671"/><path stroke="#2088FF" d="M42.392 22.006l.456-5.763M34.349 24.426l4.374.447"/><path d="M20 28c.267-1.727 1.973-3 4-3 2.08 0 3.787 1.318 4 3m-4-9a3 3 0 110 6 3 3 0 010-6z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/><path d="M24 14c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10 4.477-10 10-10z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#79B8FF" cx="35.832" cy="4" r="3"/><circle stroke="#79B8FF" cx="44" cy="36" r="3"/><circle stroke="#79B8FF" cx="34.832" cy="37" r="3"/><circle stroke="#2088FF" cx="21.654" cy="6.437" r="3"/><path d="M25.083 48.102a3 3 0 100-6 3 3 0 000 6z" stroke="#2088FF"/><path d="M8.832 5a3 3 0 110 6 3 3 0 010-6z" stroke="#2088FF" stroke-linecap="round"/><circle stroke="#79B8FF" cx="4" cy="37" r="3"/><path d="M42.832 10a3 3 0 110 6 3 3 0 010-6z" stroke="#2088FF" stroke-linecap="round"/><path stroke="#79B8FF" stroke-linecap="round" d="M32.313 38.851l-1.786 1.661"/><circle stroke="#2088FF" cx="42" cy="25" r="3"/><path stroke="#2088FF" stroke-linecap="square" d="M18.228 32.388l-1.562 2.66"/><path stroke="#79B8FF" d="M37.831 36.739l2.951-.112"/></g></svg>
+        </svg>
+      </div>
+      <div class="info">
+        <div class="title">
+          <span class="prefix"></span> Influencer
+          <div class="value-wrapper">
+            <div class="value">31</div>
+          </div>
+        </div>
+        <div class="text">Followed by 31 users</div>
+      </div>
+    </div>
+  </section>
+    </div>
+  </foreignObject>
+</svg>
