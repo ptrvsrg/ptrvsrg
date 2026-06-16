@@ -285,6 +285,6 @@ if start not in readme or end not in readme:
   raise SystemExit("achievement markers not found in README")
 before = readme[:readme.index(start)]
 after = readme[readme.index(end) + len(end):]
-section = start + "\n" + "\n".join(links) + "\n" + end
+section = start + '\n<div align="center">\n' + "\n".join(links) + "\n</div>\n" + end
 readme_path.write_text(before + section + after)
 print(f"generated {len(links)} achievement svg(s)")

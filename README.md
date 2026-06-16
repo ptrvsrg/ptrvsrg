@@ -63,17 +63,20 @@ spec:
 ## :trophy: Achievements
 
 <!--START_SECTION:credly-->
+<div align="center">
 <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs158-introduction-to-kubernetes"><img src="./assets/badges/lfs158-introduction-to-kubernetes-d3fdeef6-4e34-429e-867b-22c599063376.png" alt="LFS158: Introduction to Kubernetes" height="100" /></a>
+</div>
 <!--END_SECTION:credly-->
 
 <!--START_SECTION:achievements-->
+<div align="center">
 <img src="./assets/achievements/5-polyglot.svg" alt="Polyglot" height="96" />
 <img src="./assets/achievements/4-developer.svg" alt="Developer" height="96" />
+<img src="./assets/achievements/4-worker.svg" alt="Worker" height="96" />
 <img src="./assets/achievements/3-member.svg" alt="Member" height="96" />
 <img src="./assets/achievements/3-contributor.svg" alt="Contributor" height="96" />
 <img src="./assets/achievements/3-forker.svg" alt="Forker" height="96" />
 <img src="./assets/achievements/3-manager.svg" alt="Manager" height="96" />
-<img src="./assets/achievements/3-worker.svg" alt="Worker" height="96" />
 <img src="./assets/achievements/2-stargazer.svg" alt="Stargazer" height="96" />
 <img src="./assets/achievements/2-packager.svg" alt="Packager" height="96" />
 <img src="./assets/achievements/2-influencer.svg" alt="Influencer" height="96" />
@@ -84,12 +87,7 @@ spec:
 <img src="./assets/achievements/1-explorer.svg" alt="Explorer" height="96" />
 <img src="./assets/achievements/1-automator.svg" alt="Automator" height="96" />
 <img src="./assets/achievements/1-infographile.svg" alt="Infographile" height="96" />
-<img src="./assets/achievements/0-reviewer.svg" alt="Reviewer" height="96" />
-<img src="./assets/achievements/0-gister.svg" alt="Gister" height="96" />
-<img src="./assets/achievements/0-sponsor.svg" alt="Sponsor" height="96" />
-<img src="./assets/achievements/0-chatter.svg" alt="Chatter" height="96" />
-<img src="./assets/achievements/0-helper.svg" alt="Helper" height="96" />
-<img src="./assets/achievements/0-octonaut.svg" alt="Octonaut" height="96" />
+</div>
 <!--END_SECTION:achievements-->
 
 ## :newspaper: Recent Activity

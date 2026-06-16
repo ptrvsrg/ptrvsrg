@@ -72,7 +72,7 @@ if start not in readme or end not in readme:
 
 start_idx = readme.index(start)
 end_idx = readme.index(end) + len(end)
-new_section = start + "\n" + "\n".join(badges) + "\n" + end
+new_section = start + '\n<div align="center">\n' + "\n".join(badges) + "\n</div>\n" + end
 updated = readme[:start_idx] + new_section + readme[end_idx:]
 
 if updated == readme:
