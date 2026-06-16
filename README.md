@@ -68,6 +68,8 @@ spec:
 </div>
 <!--END_SECTION:credly-->
 
+<br/>
+
 <!--START_SECTION:achievements-->
 <div align="center">
 <img src="./assets/achievements/5-polyglot.svg" alt="Polyglot" height="96" />
