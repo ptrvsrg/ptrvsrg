@@ -101,11 +101,11 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 💪 Opened PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Merged PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-4. ❌ Labeled PR [#20574](https://github.com/deckhouse/deckhouse/pull/20574) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+1. 🗣 Commented on [#20714](https://github.com/deckhouse/deckhouse/issues/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Assigned PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. 💪 Opened PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. ❌ Merged PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+5. ❌ Labeled PR [#20574](https://github.com/deckhouse/deckhouse/pull/20574) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 6. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
 7. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
 8. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
