@@ -101,14 +101,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 💪 Opened PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Labeled PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. ❌ Labeled PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. 🗣 Commented on [#20743](https://github.com/deckhouse/deckhouse/issues/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. ❌ Labeled PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. 💪 Opened PR [#18](https://github.com/ptrvsrg/systemd-tui/pull/18) in [ptrvsrg/systemd-tui](https://github.com/ptrvsrg/systemd-tui)
+2. 💪 Opened PR [#78](https://github.com/ptrvsrg/csi-driver-ipfs/pull/78) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+3. ❌ Assigned PR [#78](https://github.com/ptrvsrg/csi-driver-ipfs/pull/78) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+4. 💪 Opened PR [#194](https://github.com/deckhouse/yandex-cloud-controller-manager/pull/194) in [deckhouse/yandex-cloud-controller-manager](https://github.com/deckhouse/yandex-cloud-controller-manager)
+5. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. 💪 Opened PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 7. ❌ Labeled PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 8. ❌ Labeled PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-9. 💪 Opened PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. 🗣 Commented on [#20714](https://github.com/deckhouse/deckhouse/issues/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. 🗣 Commented on [#20743](https://github.com/deckhouse/deckhouse/issues/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+10. ❌ Labeled PR [#20743](https://github.com/deckhouse/deckhouse/pull/20743) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
