@@ -101,14 +101,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#20574](https://github.com/deckhouse/deckhouse/pull/20574) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. ❌ Labeled PR [#20850](https://github.com/deckhouse/deckhouse/pull/20850) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. 🗣 Commented on [#81](https://github.com/ptrvsrg/csi-driver-ipfs/issues/81) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+2. ❌ Merged PR [#20574](https://github.com/deckhouse/deckhouse/pull/20574) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 3. ❌ Labeled PR [#20850](https://github.com/deckhouse/deckhouse/pull/20850) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. ❌ Assigned PR [#18](https://github.com/ptrvsrg/systemd-tui/pull/18) in [ptrvsrg/systemd-tui](https://github.com/ptrvsrg/systemd-tui)
-5. 💪 Opened PR [#18](https://github.com/ptrvsrg/systemd-tui/pull/18) in [ptrvsrg/systemd-tui](https://github.com/ptrvsrg/systemd-tui)
-6. 💪 Opened PR [#78](https://github.com/ptrvsrg/csi-driver-ipfs/pull/78) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-7. ❌ Assigned PR [#78](https://github.com/ptrvsrg/csi-driver-ipfs/pull/78) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-8. 💪 Opened PR [#194](https://github.com/deckhouse/yandex-cloud-controller-manager/pull/194) in [deckhouse/yandex-cloud-controller-manager](https://github.com/deckhouse/yandex-cloud-controller-manager)
-9. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. 💪 Opened PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. ❌ Labeled PR [#20850](https://github.com/deckhouse/deckhouse/pull/20850) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. ❌ Assigned PR [#18](https://github.com/ptrvsrg/systemd-tui/pull/18) in [ptrvsrg/systemd-tui](https://github.com/ptrvsrg/systemd-tui)
+6. 💪 Opened PR [#18](https://github.com/ptrvsrg/systemd-tui/pull/18) in [ptrvsrg/systemd-tui](https://github.com/ptrvsrg/systemd-tui)
+7. 💪 Opened PR [#78](https://github.com/ptrvsrg/csi-driver-ipfs/pull/78) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+8. ❌ Assigned PR [#78](https://github.com/ptrvsrg/csi-driver-ipfs/pull/78) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+9. 💪 Opened PR [#194](https://github.com/deckhouse/yandex-cloud-controller-manager/pull/194) in [deckhouse/yandex-cloud-controller-manager](https://github.com/deckhouse/yandex-cloud-controller-manager)
+10. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
