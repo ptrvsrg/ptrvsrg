@@ -72,29 +72,29 @@ spec:
 
 <!--START_SECTION:achievements-->
 <div align="center">
-<img src="./assets/achievements/5-polyglot.svg" alt="Polyglot" height="96" />
-<img src="./assets/achievements/4-developer.svg" alt="Developer" height="96" />
-<img src="./assets/achievements/3-member.svg" alt="Member" height="96" />
-<img src="./assets/achievements/3-contributor.svg" alt="Contributor" height="96" />
-<img src="./assets/achievements/3-forker.svg" alt="Forker" height="96" />
-<img src="./assets/achievements/3-manager.svg" alt="Manager" height="96" />
-<img src="./assets/achievements/3-worker.svg" alt="Worker" height="96" />
-<img src="./assets/achievements/2-stargazer.svg" alt="Stargazer" height="96" />
-<img src="./assets/achievements/2-packager.svg" alt="Packager" height="96" />
-<img src="./assets/achievements/2-influencer.svg" alt="Influencer" height="96" />
-<img src="./assets/achievements/2-follower.svg" alt="Follower" height="96" />
-<img src="./assets/achievements/2-maintainer.svg" alt="Maintainer" height="96" />
-<img src="./assets/achievements/2-inspirer.svg" alt="Inspirer" height="96" />
-<img src="./assets/achievements/1-verified.svg" alt="Verified" height="96" />
-<img src="./assets/achievements/1-explorer.svg" alt="Explorer" height="96" />
-<img src="./assets/achievements/1-automator.svg" alt="Automator" height="96" />
-<img src="./assets/achievements/1-infographile.svg" alt="Infographile" height="96" />
-<img src="./assets/achievements/0-reviewer.svg" alt="Reviewer" height="96" />
-<img src="./assets/achievements/0-gister.svg" alt="Gister" height="96" />
-<img src="./assets/achievements/0-sponsor.svg" alt="Sponsor" height="96" />
-<img src="./assets/achievements/0-chatter.svg" alt="Chatter" height="96" />
-<img src="./assets/achievements/0-helper.svg" alt="Helper" height="96" />
-<img src="./assets/achievements/0-octonaut.svg" alt="Octonaut" height="96" />
+<img src="./assets/achievements/5-polyglot.svg" title="Polyglot" alt="Polyglot" height="96" />
+<img src="./assets/achievements/4-developer.svg" title="Developer" alt="Developer" height="96" />
+<img src="./assets/achievements/3-member.svg" title="Member" alt="Member" height="96" />
+<img src="./assets/achievements/3-contributor.svg" title="Contributor" alt="Contributor" height="96" />
+<img src="./assets/achievements/3-forker.svg" title="Forker" alt="Forker" height="96" />
+<img src="./assets/achievements/3-manager.svg" title="Manager" alt="Manager" height="96" />
+<img src="./assets/achievements/3-worker.svg" title="Worker" alt="Worker" height="96" />
+<img src="./assets/achievements/2-stargazer.svg" title="Stargazer" alt="Stargazer" height="96" />
+<img src="./assets/achievements/2-packager.svg" title="Packager" alt="Packager" height="96" />
+<img src="./assets/achievements/2-influencer.svg" title="Influencer" alt="Influencer" height="96" />
+<img src="./assets/achievements/2-follower.svg" title="Follower" alt="Follower" height="96" />
+<img src="./assets/achievements/2-maintainer.svg" title="Maintainer" alt="Maintainer" height="96" />
+<img src="./assets/achievements/2-inspirer.svg" title="Inspirer" alt="Inspirer" height="96" />
+<img src="./assets/achievements/1-verified.svg" title="Verified" alt="Verified" height="96" />
+<img src="./assets/achievements/1-explorer.svg" title="Explorer" alt="Explorer" height="96" />
+<img src="./assets/achievements/1-automator.svg" title="Automator" alt="Automator" height="96" />
+<img src="./assets/achievements/1-infographile.svg" title="Infographile" alt="Infographile" height="96" />
+<img src="./assets/achievements/0-reviewer.svg" title="Reviewer" alt="Reviewer" height="96" />
+<img src="./assets/achievements/0-gister.svg" title="Gister" alt="Gister" height="96" />
+<img src="./assets/achievements/0-sponsor.svg" title="Sponsor" alt="Sponsor" height="96" />
+<img src="./assets/achievements/0-chatter.svg" title="Chatter" alt="Chatter" height="96" />
+<img src="./assets/achievements/0-helper.svg" title="Helper" alt="Helper" height="96" />
+<img src="./assets/achievements/0-octonaut.svg" title="Octonaut" alt="Octonaut" height="96" />
 </div>
 <!--END_SECTION:achievements-->
 
