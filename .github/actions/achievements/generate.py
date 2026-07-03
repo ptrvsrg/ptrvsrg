@@ -559,7 +559,7 @@ for item in selected:
     path.write_text(render_svg(item))
     height = "96" if display == "compact" else "64"
     links.append(
-        f'<img src="./{path.as_posix()}" title="{html.escape(item["title"], quote=True)}" alt="{html.escape(item["title"], quote=True)}" height="{height}" />'
+        f'<img src="./{path.as_posix()}" title="{html.escape(item["text"], quote=True)}" alt="{html.escape(item["title"], quote=True)}" height="{height}" />'
     )
 
 if not links:
