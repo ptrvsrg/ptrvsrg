@@ -72,29 +72,29 @@ spec:
 
 <!--START_SECTION:achievements-->
 <div align="center">
-<img src="./assets/achievements/5-polyglot.svg" title="Polyglot" alt="Polyglot" height="96" />
-<img src="./assets/achievements/4-developer.svg" title="Developer" alt="Developer" height="96" />
-<img src="./assets/achievements/3-member.svg" title="Member" alt="Member" height="96" />
-<img src="./assets/achievements/3-contributor.svg" title="Contributor" alt="Contributor" height="96" />
-<img src="./assets/achievements/3-forker.svg" title="Forker" alt="Forker" height="96" />
-<img src="./assets/achievements/3-manager.svg" title="Manager" alt="Manager" height="96" />
-<img src="./assets/achievements/3-worker.svg" title="Worker" alt="Worker" height="96" />
-<img src="./assets/achievements/2-stargazer.svg" title="Stargazer" alt="Stargazer" height="96" />
-<img src="./assets/achievements/2-packager.svg" title="Packager" alt="Packager" height="96" />
-<img src="./assets/achievements/2-influencer.svg" title="Influencer" alt="Influencer" height="96" />
-<img src="./assets/achievements/2-follower.svg" title="Follower" alt="Follower" height="96" />
-<img src="./assets/achievements/2-maintainer.svg" title="Maintainer" alt="Maintainer" height="96" />
-<img src="./assets/achievements/2-inspirer.svg" title="Inspirer" alt="Inspirer" height="96" />
-<img src="./assets/achievements/1-verified.svg" title="Verified" alt="Verified" height="96" />
-<img src="./assets/achievements/1-explorer.svg" title="Explorer" alt="Explorer" height="96" />
-<img src="./assets/achievements/1-automator.svg" title="Automator" alt="Automator" height="96" />
-<img src="./assets/achievements/1-infographile.svg" title="Infographile" alt="Infographile" height="96" />
-<img src="./assets/achievements/0-reviewer.svg" title="Reviewer" alt="Reviewer" height="96" />
-<img src="./assets/achievements/0-gister.svg" title="Gister" alt="Gister" height="96" />
-<img src="./assets/achievements/0-sponsor.svg" title="Sponsor" alt="Sponsor" height="96" />
-<img src="./assets/achievements/0-chatter.svg" title="Chatter" alt="Chatter" height="96" />
-<img src="./assets/achievements/0-helper.svg" title="Helper" alt="Helper" height="96" />
-<img src="./assets/achievements/0-octonaut.svg" title="Octonaut" alt="Octonaut" height="96" />
+<img src="./assets/achievements/5-polyglot.svg" title="Using 31 different programming languages" alt="Polyglot" height="96" />
+<img src="./assets/achievements/4-developer.svg" title="Published 53 public repositories" alt="Developer" height="96" />
+<img src="./assets/achievements/3-member.svg" title="Registered 4 years ago" alt="Member" height="96" />
+<img src="./assets/achievements/3-contributor.svg" title="Opened 312 pull requests" alt="Contributor" height="96" />
+<img src="./assets/achievements/3-forker.svg" title="Forked 6 public repositories" alt="Forker" height="96" />
+<img src="./assets/achievements/3-manager.svg" title="Created 2 user projects" alt="Manager" height="96" />
+<img src="./assets/achievements/3-worker.svg" title="Joined 2 organizations" alt="Worker" height="96" />
+<img src="./assets/achievements/2-stargazer.svg" title="Starred 140 repositories" alt="Stargazer" height="96" />
+<img src="./assets/achievements/2-packager.svg" title="Created 2 packages" alt="Packager" height="96" />
+<img src="./assets/achievements/2-influencer.svg" title="Followed by 33 users" alt="Influencer" height="96" />
+<img src="./assets/achievements/2-follower.svg" title="Following 21 users" alt="Follower" height="96" />
+<img src="./assets/achievements/2-maintainer.svg" title="Maintaining a repository with 2 stars" alt="Maintainer" height="96" />
+<img src="./assets/achievements/2-inspirer.svg" title="Maintaining or created a repository which has been forked 1 time" alt="Inspirer" height="96" />
+<img src="./assets/achievements/1-verified.svg" title="Registered a GPG key to sign commits" alt="Verified" height="96" />
+<img src="./assets/achievements/1-explorer.svg" title="Starred a topic on GitHub Explore" alt="Explorer" height="96" />
+<img src="./assets/achievements/1-automator.svg" title="Use GitHub Actions to automate profile updates" alt="Automator" height="96" />
+<img src="./assets/achievements/1-infographile.svg" title="Fervent supporter of metrics" alt="Infographile" height="96" />
+<img src="./assets/achievements/0-reviewer.svg" title="Reviewed 0 pull requests" alt="Reviewer" height="96" />
+<img src="./assets/achievements/0-gister.svg" title="Published 0 gists" alt="Gister" height="96" />
+<img src="./assets/achievements/0-sponsor.svg" title="Sponsoring 0 users or organizations" alt="Sponsor" height="96" />
+<img src="./assets/achievements/0-chatter.svg" title="Participated in discussions 0 times" alt="Chatter" height="96" />
+<img src="./assets/achievements/0-helper.svg" title="Answered and solved 0 discussions" alt="Helper" height="96" />
+<img src="./assets/achievements/0-octonaut.svg" title="Following octocat" alt="Octonaut" height="96" />
 </div>
 <!--END_SECTION:achievements-->
 
