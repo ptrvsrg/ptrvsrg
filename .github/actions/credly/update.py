@@ -4,8 +4,8 @@ import os
 import re
 import urllib.error
 import urllib.request
-from urllib.parse import urlparse
 from pathlib import Path
+from urllib.parse import urlparse
 
 username = os.environ["CREDLY_USERNAME"]
 readme_path = Path(os.environ["CREDLY_README"])
@@ -17,6 +17,7 @@ urls = [
     f"https://www.credly.com/users/{username}/badges?format=json",
 ]
 
+
 def fetch(url):
     request = urllib.request.Request(
         url,
@@ -27,6 +28,7 @@ def fetch(url):
     )
     with urllib.request.urlopen(request, timeout=30) as response:
         return response.read()
+
 
 data = None
 for url in urls:
@@ -40,7 +42,9 @@ for url in urls:
         break
 
 if data is None:
-    print(f"failed to fetch badges for username {username}; keeping existing README section")
+    print(
+        f"failed to fetch badges for username {username}; keeping existing README section"
+    )
     raise SystemExit(0)
 
 badges_dir.mkdir(parents=True, exist_ok=True)
@@ -56,11 +60,11 @@ for item in data.get("data", []):
         extension = Path(urlparse(image_url).path).suffix or ".png"
         image_path = badges_dir / f"{slug}-{identifier}{extension}"
         image_path.write_bytes(fetch(image_url))
-        alt = html.escape(name)
+        name = html.escape(name)
         href = html.escape(badge_url, quote=True)
         src = html.escape(f"./{image_path.as_posix()}", quote=True)
         badges.append(
-            f'<a href="{href}"><img src="{src}" alt="{alt}" height="100" /></a>'
+            f'<a href="{href}"><img src="{src}" title="{name}" alt="{name}" height="100" /></a>'
         )
 
 if not badges:
@@ -72,7 +76,9 @@ if start not in readme or end not in readme:
 
 start_idx = readme.index(start)
 end_idx = readme.index(end) + len(end)
-new_section = start + '\n<div align="center">\n' + "\n".join(badges) + "\n</div>\n" + end
+new_section = (
+    start + '\n<div align="center">\n' + "\n".join(badges) + "\n</div>\n" + end
+)
 updated = readme[:start_idx] + new_section + readme[end_idx:]
 
 if updated == readme:
