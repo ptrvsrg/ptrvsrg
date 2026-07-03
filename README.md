@@ -101,14 +101,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-2. ❌ Labeled PR [#20574](https://github.com/deckhouse/deckhouse/pull/20574) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-4. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-5. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-6. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-7. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-8. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-9. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-10. ❌ Labeled PR [#76](https://github.com/ptrvsrg/csi-driver-ipfs/pull/76) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+1. ❌ Merged PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. 🗣 Commented on [#21110](https://github.com/deckhouse/deckhouse/issues/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. 💪 Opened PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. ❌ Assigned PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+8. ❌ Merged PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. ❌ Merged PR [#21079](https://github.com/deckhouse/deckhouse/pull/21079) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+10. ❌ Labeled PR [#21079](https://github.com/deckhouse/deckhouse/pull/21079) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
