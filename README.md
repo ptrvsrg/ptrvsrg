@@ -101,14 +101,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 🗣 Commented on [#21110](https://github.com/deckhouse/deckhouse/issues/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. ❌ Closed PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Merged PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. 🗣 Commented on [#21110](https://github.com/deckhouse/deckhouse/issues/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 4. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 5. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. 💪 Opened PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-7. ❌ Assigned PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-8. ❌ Merged PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-9. ❌ Merged PR [#21079](https://github.com/deckhouse/deckhouse/pull/21079) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. ❌ Labeled PR [#21079](https://github.com/deckhouse/deckhouse/pull/21079) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. ❌ Labeled PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. 💪 Opened PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+8. ❌ Assigned PR [#21110](https://github.com/deckhouse/deckhouse/pull/21110) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. ❌ Merged PR [#20714](https://github.com/deckhouse/deckhouse/pull/20714) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+10. ❌ Merged PR [#21079](https://github.com/deckhouse/deckhouse/pull/21079) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
