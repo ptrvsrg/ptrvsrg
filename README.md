@@ -102,13 +102,13 @@ spec:
 
 <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#21261](https://github.com/deckhouse/deckhouse/pull/21261) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. ❌ Assigned PR [#21261](https://github.com/deckhouse/deckhouse/pull/21261) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. 💪 Opened PR [#21261](https://github.com/deckhouse/deckhouse/pull/21261) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. 💪 Opened PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. ❌ Assigned PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-7. 💪 Opened PR [#23](https://github.com/deckhouse/mcm/pull/23) in [deckhouse/mcm](https://github.com/deckhouse/mcm)
-8. ❌ Assigned PR [#23](https://github.com/deckhouse/mcm/pull/23) in [deckhouse/mcm](https://github.com/deckhouse/mcm)
-9. ❌ Reopened PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. ❌ Closed PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Closed PR [#21268](https://github.com/deckhouse/deckhouse/pull/21268) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. 💪 Opened PR [#21268](https://github.com/deckhouse/deckhouse/pull/21268) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. ❌ Labeled PR [#21261](https://github.com/deckhouse/deckhouse/pull/21261) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. ❌ Assigned PR [#21261](https://github.com/deckhouse/deckhouse/pull/21261) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. 💪 Opened PR [#21261](https://github.com/deckhouse/deckhouse/pull/21261) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+8. 💪 Opened PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. ❌ Assigned PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+10. 💪 Opened PR [#23](https://github.com/deckhouse/mcm/pull/23) in [deckhouse/mcm](https://github.com/deckhouse/mcm)
 <!--END_SECTION:activity-->
