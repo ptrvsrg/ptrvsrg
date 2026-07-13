@@ -101,9 +101,9 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#21296](https://github.com/deckhouse/deckhouse/pull/21296) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 🗣 Commented on [#21296](https://github.com/deckhouse/deckhouse/issues/21296) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. 💪 Opened PR [#21326](https://github.com/deckhouse/deckhouse/pull/21326) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Assigned PR [#21326](https://github.com/deckhouse/deckhouse/pull/21326) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ❌ Merged PR [#21296](https://github.com/deckhouse/deckhouse/pull/21296) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 4. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 5. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 6. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
