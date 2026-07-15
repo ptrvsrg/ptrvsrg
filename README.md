@@ -79,7 +79,7 @@ spec:
 <img src="./assets/achievements/3-forker.svg" title="Forked 6 public repositories" alt="Forker" height="96" />
 <img src="./assets/achievements/3-manager.svg" title="Created 2 user projects" alt="Manager" height="96" />
 <img src="./assets/achievements/3-worker.svg" title="Joined 2 organizations" alt="Worker" height="96" />
-<img src="./assets/achievements/2-stargazer.svg" title="Starred 145 repositories" alt="Stargazer" height="96" />
+<img src="./assets/achievements/2-stargazer.svg" title="Starred 146 repositories" alt="Stargazer" height="96" />
 <img src="./assets/achievements/2-packager.svg" title="Created 2 packages" alt="Packager" height="96" />
 <img src="./assets/achievements/2-influencer.svg" title="Followed by 34 users" alt="Influencer" height="96" />
 <img src="./assets/achievements/2-follower.svg" title="Following 22 users" alt="Follower" height="96" />
