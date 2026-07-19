@@ -81,7 +81,7 @@ spec:
 <img src="./assets/achievements/3-worker.svg" title="Joined 2 organizations" alt="Worker" height="96" />
 <img src="./assets/achievements/2-stargazer.svg" title="Starred 149 repositories" alt="Stargazer" height="96" />
 <img src="./assets/achievements/2-packager.svg" title="Created 2 packages" alt="Packager" height="96" />
-<img src="./assets/achievements/2-influencer.svg" title="Followed by 34 users" alt="Influencer" height="96" />
+<img src="./assets/achievements/2-influencer.svg" title="Followed by 35 users" alt="Influencer" height="96" />
 <img src="./assets/achievements/2-follower.svg" title="Following 22 users" alt="Follower" height="96" />
 <img src="./assets/achievements/2-maintainer.svg" title="Maintaining a repository with 2 stars" alt="Maintainer" height="96" />
 <img src="./assets/achievements/2-inspirer.svg" title="Maintaining or created a repository which has been forked 1 time" alt="Inspirer" height="96" />
