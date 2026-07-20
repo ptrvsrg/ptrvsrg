@@ -75,13 +75,13 @@ spec:
 <img src="./assets/achievements/5-polyglot.svg" title="Using 31 different programming languages" alt="Polyglot" height="96" />
 <img src="./assets/achievements/4-developer.svg" title="Published 53 public repositories" alt="Developer" height="96" />
 <img src="./assets/achievements/3-member.svg" title="Registered 4 years ago" alt="Member" height="96" />
-<img src="./assets/achievements/3-contributor.svg" title="Opened 320 pull requests" alt="Contributor" height="96" />
+<img src="./assets/achievements/3-contributor.svg" title="Opened 321 pull requests" alt="Contributor" height="96" />
 <img src="./assets/achievements/3-forker.svg" title="Forked 6 public repositories" alt="Forker" height="96" />
 <img src="./assets/achievements/3-manager.svg" title="Created 2 user projects" alt="Manager" height="96" />
 <img src="./assets/achievements/3-worker.svg" title="Joined 2 organizations" alt="Worker" height="96" />
 <img src="./assets/achievements/2-stargazer.svg" title="Starred 150 repositories" alt="Stargazer" height="96" />
 <img src="./assets/achievements/2-packager.svg" title="Created 2 packages" alt="Packager" height="96" />
-<img src="./assets/achievements/2-influencer.svg" title="Followed by 35 users" alt="Influencer" height="96" />
+<img src="./assets/achievements/2-influencer.svg" title="Followed by 36 users" alt="Influencer" height="96" />
 <img src="./assets/achievements/2-follower.svg" title="Following 22 users" alt="Follower" height="96" />
 <img src="./assets/achievements/2-maintainer.svg" title="Maintaining a repository with 2 stars" alt="Maintainer" height="96" />
 <img src="./assets/achievements/2-inspirer.svg" title="Maintaining or created a repository which has been forked 1 time" alt="Inspirer" height="96" />
