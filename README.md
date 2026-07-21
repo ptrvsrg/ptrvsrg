@@ -101,14 +101,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. ❌ Merged PR [#32](https://github.com/deckhouse/yandex-csi-driver/pull/32) in [deckhouse/yandex-csi-driver](https://github.com/deckhouse/yandex-csi-driver)
-3. ❌ Merged PR [#194](https://github.com/deckhouse/yandex-cloud-controller-manager/pull/194) in [deckhouse/yandex-cloud-controller-manager](https://github.com/deckhouse/yandex-cloud-controller-manager)
-4. 💪 Opened PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. ❌ Assigned PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. 🗣 Commented on [#21409](https://github.com/deckhouse/deckhouse/issues/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-7. ❌ Labeled PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-8. ❌ Assigned PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-9. 💪 Opened PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. ❌ Merged PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Labeled PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ❌ Merged PR [#32](https://github.com/deckhouse/yandex-csi-driver/pull/32) in [deckhouse/yandex-csi-driver](https://github.com/deckhouse/yandex-csi-driver)
+4. ❌ Merged PR [#194](https://github.com/deckhouse/yandex-cloud-controller-manager/pull/194) in [deckhouse/yandex-cloud-controller-manager](https://github.com/deckhouse/yandex-cloud-controller-manager)
+5. 💪 Opened PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. ❌ Assigned PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. 🗣 Commented on [#21409](https://github.com/deckhouse/deckhouse/issues/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+8. ❌ Labeled PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. ❌ Assigned PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+10. 💪 Opened PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
