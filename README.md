@@ -102,13 +102,13 @@ spec:
 
 <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. ❌ Merged PR [#23](https://github.com/deckhouse/mcm/pull/23) in [deckhouse/mcm](https://github.com/deckhouse/mcm)
-3. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. ❌ Closed PR [#21453](https://github.com/deckhouse/deckhouse/pull/21453) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. 💪 Opened PR [#21453](https://github.com/deckhouse/deckhouse/pull/21453) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. ❌ Assigned PR [#21453](https://github.com/deckhouse/deckhouse/pull/21453) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-7. ❌ Closed PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-8. ❌ Merged PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-9. ❌ Labeled PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. ❌ Merged PR [#32](https://github.com/deckhouse/yandex-csi-driver/pull/32) in [deckhouse/yandex-csi-driver](https://github.com/deckhouse/yandex-csi-driver)
+2. ❌ Unlabeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. ❌ Merged PR [#23](https://github.com/deckhouse/mcm/pull/23) in [deckhouse/mcm](https://github.com/deckhouse/mcm)
+5. ❌ Labeled PR [#20780](https://github.com/deckhouse/deckhouse/pull/20780) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. ❌ Closed PR [#21453](https://github.com/deckhouse/deckhouse/pull/21453) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. 💪 Opened PR [#21453](https://github.com/deckhouse/deckhouse/pull/21453) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+8. ❌ Assigned PR [#21453](https://github.com/deckhouse/deckhouse/pull/21453) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. ❌ Closed PR [#21435](https://github.com/deckhouse/deckhouse/pull/21435) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+10. ❌ Merged PR [#21409](https://github.com/deckhouse/deckhouse/pull/21409) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
