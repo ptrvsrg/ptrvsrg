@@ -102,13 +102,13 @@ spec:
 
 <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 🗣 Commented on [#21245](https://github.com/deckhouse/deckhouse/issues/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. 🗣 Commented on [#21245](https://github.com/deckhouse/deckhouse/issues/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 4. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. 🗣 Commented on [#21245](https://github.com/deckhouse/deckhouse/issues/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. 🗣 Commented on [#99](https://github.com/ptrvsrg/csi-driver-ipfs/issues/99) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-7. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-8. 🗣 Commented on [#99](https://github.com/ptrvsrg/csi-driver-ipfs/issues/99) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-9. ❌ Merged PR [#21679](https://github.com/deckhouse/deckhouse/pull/21679) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-10. ❌ Labeled PR [#21679](https://github.com/deckhouse/deckhouse/pull/21679) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. 🗣 Commented on [#21245](https://github.com/deckhouse/deckhouse/issues/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. 🗣 Commented on [#99](https://github.com/ptrvsrg/csi-driver-ipfs/issues/99) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+8. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+9. 🗣 Commented on [#99](https://github.com/ptrvsrg/csi-driver-ipfs/issues/99) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+10. ❌ Merged PR [#21679](https://github.com/deckhouse/deckhouse/pull/21679) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
