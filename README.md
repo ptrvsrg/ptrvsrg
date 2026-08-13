@@ -85,6 +85,7 @@ spec:
 <img src="./assets/achievements/2-follower.svg" title="Following 22 users" alt="Follower" height="96" />
 <img src="./assets/achievements/2-maintainer.svg" title="Maintaining a repository with 2 stars" alt="Maintainer" height="96" />
 <img src="./assets/achievements/2-inspirer.svg" title="Maintaining or created a repository which has been forked 1 time" alt="Inspirer" height="96" />
+<img src="./assets/achievements/1-verified.svg" title="Registered a GPG key to sign commits" alt="Verified" height="96" />
 <img src="./assets/achievements/1-explorer.svg" title="Starred a topic on GitHub Explore" alt="Explorer" height="96" />
 <img src="./assets/achievements/1-automator.svg" title="Use GitHub Actions to automate profile updates" alt="Automator" height="96" />
 <img src="./assets/achievements/1-infographile.svg" title="Fervent supporter of metrics" alt="Infographile" height="96" />
@@ -94,7 +95,6 @@ spec:
 <img src="./assets/achievements/0-sponsor.svg" title="Sponsoring 0 users or organizations" alt="Sponsor" height="96" />
 <img src="./assets/achievements/0-chatter.svg" title="Participated in discussions 0 times" alt="Chatter" height="96" />
 <img src="./assets/achievements/0-helper.svg" title="Answered and solved 0 discussions" alt="Helper" height="96" />
-<img src="./assets/achievements/0-verified.svg" title="Registered a GPG key to sign commits" alt="Verified" height="96" />
 </div>
 <!--END_SECTION:achievements-->
 
