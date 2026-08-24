@@ -23,11 +23,13 @@ metadata:
   name: "petrov-sergei"
 spec:
   fullName: "Petrov Sergei"
-  job: "Cloud Software Developer"
   location: "Novosibirsk, Russia"
   educations:
-    - "Bachelor's in Informatics and Computer Engineering"
-    - "Master's in Informatics and Computer Engineering"
+    - "Bachelor's in Informatics and Computer Engineering at NSU"
+    - "Master's in Informatics and Computer Engineering at NSU"
+  jobs:
+    - "Architectural Solutions Engineer at Flant"
+    - "Teaching assistant at NSU"
   skills:
     languages: ["Go", "Python", "TypeScript", "Java"]
     cloud: ["Kubernetes", "VMware", "OpenStack", "Proxmox"]
