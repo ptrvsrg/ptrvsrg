@@ -103,14 +103,14 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#21653](https://github.com/deckhouse/deckhouse/pull/21653) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ❌ Unlabeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. ❌ Merged PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-6. ❌ Labeled PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-7. 🗣 Commented on [#21918](https://github.com/deckhouse/deckhouse/issues/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-8. ❌ Labeled PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. 🗣 Commented on [#21653](https://github.com/deckhouse/deckhouse/issues/21653) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ❌ Labeled PR [#21653](https://github.com/deckhouse/deckhouse/pull/21653) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. ❌ Unlabeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. ❌ Labeled PR [#21245](https://github.com/deckhouse/deckhouse/pull/21245) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+6. ❌ Merged PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+7. ❌ Labeled PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+8. 🗣 Commented on [#21918](https://github.com/deckhouse/deckhouse/issues/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 9. ❌ Labeled PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 10. ❌ Labeled PR [#21918](https://github.com/deckhouse/deckhouse/pull/21918) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
