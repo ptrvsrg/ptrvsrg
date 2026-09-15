@@ -103,9 +103,9 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22846](https://github.com/deckhouse/deckhouse/pull/22846) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 🗣 Commented on [#3919](https://github.com/kubernetes-sigs/vsphere-csi-driver/issues/3919#issuecomment-5600706738) in [kubernetes-sigs/vsphere-csi-driver](https://github.com/kubernetes-sigs/vsphere-csi-driver)
-3. ℹ️ Labeled PR [#21653](https://github.com/deckhouse/deckhouse/pull/21653) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. ℹ️ Labeled PR [#22862](https://github.com/deckhouse/deckhouse/pull/22862) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. 🗣 Commented on [#22862](https://github.com/deckhouse/deckhouse/pull/22862#issuecomment-5581298144) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. ℹ️ Labeled PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. 💪 Opened PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. ℹ️ Assigned PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. 🎉 Merged PR [#22846](https://github.com/deckhouse/deckhouse/pull/22846) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. 🗣 Commented on [#3919](https://github.com/kubernetes-sigs/vsphere-csi-driver/issues/3919#issuecomment-5600706738) in [kubernetes-sigs/vsphere-csi-driver](https://github.com/kubernetes-sigs/vsphere-csi-driver)
 <!--END_SECTION:activity-->
