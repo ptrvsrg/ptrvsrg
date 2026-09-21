@@ -103,9 +103,9 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#23104](https://github.com/deckhouse/deckhouse/pull/23104) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-2. 🗣 Commented on [#23058](https://github.com/deckhouse/deckhouse/pull/23058#issuecomment-5758176570) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-3. ℹ️ Labeled PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-4. 🗣 Commented on [#23058](https://github.com/deckhouse/deckhouse/pull/23058#issuecomment-5730499290) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. ℹ️ Labeled PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. 💪 Opened PR [#23207](https://github.com/deckhouse/deckhouse/pull/23207) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+2. ℹ️ Assigned PR [#23207](https://github.com/deckhouse/deckhouse/pull/23207) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+3. 🎉 Merged PR [#23104](https://github.com/deckhouse/deckhouse/pull/23104) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+4. 🎉 Merged PR [#23200](https://github.com/deckhouse/deckhouse/pull/23200) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+5. 🗣 Commented on [#23104](https://github.com/deckhouse/deckhouse/pull/23104#issuecomment-5762350946) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
