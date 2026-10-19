@@ -103,9 +103,9 @@ spec:
 ## :newspaper: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#133](https://github.com/ptrvsrg/csi-driver-ipfs/pull/133) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-2. ❌ Closed PR [#130](https://github.com/ptrvsrg/csi-driver-ipfs/pull/130) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-3. ❌ Closed PR [#129](https://github.com/ptrvsrg/csi-driver-ipfs/pull/129) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
-4. ❌ Closed PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
-5. 🗣 Commented on [#22798](https://github.com/deckhouse/deckhouse/pull/22798#issuecomment-5832612847) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
+1. 🗣 Commented on [#3920](https://github.com/kubernetes-sigs/vsphere-csi-driver/pull/3920#issuecomment-6268003981) in [kubernetes-sigs/vsphere-csi-driver](https://github.com/kubernetes-sigs/vsphere-csi-driver)
+2. ❌ Closed PR [#133](https://github.com/ptrvsrg/csi-driver-ipfs/pull/133) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+3. ❌ Closed PR [#130](https://github.com/ptrvsrg/csi-driver-ipfs/pull/130) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+4. ❌ Closed PR [#129](https://github.com/ptrvsrg/csi-driver-ipfs/pull/129) in [ptrvsrg/csi-driver-ipfs](https://github.com/ptrvsrg/csi-driver-ipfs)
+5. ❌ Closed PR [#23058](https://github.com/deckhouse/deckhouse/pull/23058) in [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 <!--END_SECTION:activity-->
